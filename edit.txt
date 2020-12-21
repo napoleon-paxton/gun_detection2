@@ -1,0 +1,901 @@
+Resolving them is not always easy. -TG
+
+Jqjq's 2nd commit, 1st commit disappeared
+
+
+Joe's Second Commit - 9.2
+
+Joe's First Commit - 8.30
+
+Fingers crossed we got through the merge conflic - Jack
+
+Adding my changes to same section---xxxxxxxxxxxxxxxxxxxxxx ----- ssc ----Cognitive search came back with zero insight from poem. :(  SSC
+
+Modfying Poem on conflict management.  Will use cognitive search to detect midden meanning in poem.   SSC
+
+I am writing a poem on conflict management, - SSC
+
+Conflicts are part of life. -TG
+
+Hi, I'm Sean - SL
+
+Added in my second commit -DP
+
+
+"Life's good :)))" -my cat
+
+
+Waited long enough, so there has to be merge conflict- Ferdous
+
+Let's hope nothing goes wrong with this... -KN
+
+Lets see again!! KM
+This is fine and lets keep 0827 commit for conflict also !!!
+PyyYYyYYyYYTHooooooooooon. I'm a snaaaAAAaake! -Nate's 2nd Commit
+~~~~~~
+Hi Class and Welcome to MIDS !
+~~~~~~
+
+RBD - now let's see what happens
+
+Pickly coconouts
+
+? :) :D xDDDDD
+
+Oliver C first commit
+Rui Li second commit
+Oliver C second commit
+
+Abby B first commit
+
+This is my third commit -KN
+No actually this is my fourth commit. I messed up! -KN
+
+I'll throw one more in here for good measure... :-)
+Nice job Chang! BOOM!
+
+testing my playground commit
+
+
+Tony Angell's first commit.  24 hr req is tricky!  (Karthik - Yes, It is! Editing your line to give you some merge conflict)  -- fixing 'unknown' showing as username on commiting into repo"
+
+Shivani's first commit!!!
+
+-- This is Robert Hosbach's second commit...will I have to deal with any conflicts today???
+
+-- Karthikeyan Sakthivel
+-- Testing the git commits and merge conflicts
+
+- my first commit
+- my 2nd commit
+Rui's third commit
+=================================================================
+
+>>>>>>> b61a781b1528cc34d951d9a32c76242d1dac6113
+
+Pow Chang did this First Commit Here!
+Pow Chang Second Commit..
+
+Jeff Adams -- first commit
+Jeff Adams -- Second commit
+
+Irene Shaffer -- hi everyone! first commit
+
+ 4b89aabb5e6dddbb321e4e9c9af7ec96c29a10e4
+Lets keep this !! This is my second commit- Kanika Mahajan
+Commit coming from Kmahajan
+Pc -- First Commit Here! 1st Commit
+
+KN's second commit! Fingers crossed! Did the work?
+
+
+Doing this again
+Asteroid 2018 VP1 will zoom past Earth on November 2, one day before Americans vote for the next president.
+Might as well try my first commit - Ferdous
+
+CH -> first commit 2020-08-26; 8:25p CT
+
+and off to the second commit
+another commit
+
+This Rob Hosbach's commit, coming to y'all from hot and smoky Chico, CA.
+This is Nate's Commit! BOOM!
+
+﻿Let's create some merge conflicts
+
+Spencer - First Commit, see you later
+
+Lets do again !!-KM2
+Day late~ Ryan Orton
+and again ~ Ryan Orton
+
+Joseph Alvarez in da house!!! last minute baby. May 11
+
+JEJEJEJEEJEJEJEJEJEJJEJE <:
+
+test
+
+What's Messi's new team gonna be?
+
+Preethi Raju - whoo! Let's get some merge conflicts!
+preethi - edit 2
+preethi - edit 3
+
+Chris's first commit - resetting the edit file from the prior class? (Danie here: I edited your line Chris.)
+
+Shannie's first commit, hello from Seattle
+Shannie's second commit, here comes some merge conflicts
+
+
+Lucas here - very excited after running my first shell script
+
+First commit from Tiffany Cheng!
+-second commit!
+
+I will try to create a conflict :)
+
+Hello from Lindsay. Github is fun! A lot!
+Chris's 2nd commit:  The level of 'fun' is directly proportional to how often git does what I expect it to do - but its a pretty neat tool.
+George Jiang: "Second to the comment above" - May 9th
+
+Paco here, finding it hard, \o/ but starting to enjoy it.
+
+Hey! This is Isabel. This is my first entry to this file.
+
+Fabio hacking the playground
+Analise joining the fun
+Daniel Chow 2nd commit
+
+Dhyani S Parekh- trying my first commit here. Hopefully it works!!
+Dhyani S Parekh- Doing my second commit here. I think I sort of get it now!! And its after midnight so a day after the first commit! ;) haha
+
+
+Ramon here: we used to say in law school, "not always right but always confident (first commit)." I think my new saying will in MIDS will be, "not always wrong but always confused (second commit)." FYI, I got a merge conflict, what I did is did a git pull for for the updated text file then I re-edited my little blurb here.
+
+This is Ziwei's first comment - happy friday!
+
+Hello - first try from Leyla
+Second try from Leyla
+
+Haoyu here, May 7 2020.
+
+Brooks Modie - 1st commit May 7
+
++ Amar Chatterjee: This is my first rodeo.
+
+jejejejejejejejejejejejejejej
+
++ Joe Mirza - Happy GitDay!
+
+\\Daniel Ryu was here - 8.28
++ Hi from Lindsay, again.
+
++ I love merge conflicts
+
+Happy Friday for you'll ! This is Isabel's second entry
+
+Happy Friday for you too!!! Lucas here
+
+Ryan here, edit #1!
+
+Ryan edit #2, trying to create a merge conflict.
+
+
+Amanda - commit #1, May 9, 2020
+Amanda - commit #2, May 10, 2020
+
+Amar Chatterjee: This is not my first rodeo.
+1st commit: Thomas trying to git it \n
+
+bmattina: What up crew? First commit (09May).
+bmattina: Get your homework done! Second commit (10May).
+
+Brooks Modie - 2nd commit May 9
+
+Jake's - 1st commit May 9th
+Jake's - 2nd commit May 10th (create a merge conflict here...)
+
+Alice Ye: adding 1st commit on May 9
+
+Ram adding first comment.  20200901 - first day of (online) school here.
+
+John Andrus - Yo Yo Yo first commit coming out of ATX
+
+Ginny's first commit - May 9
+Ginny's second commit - May 10
+
+Joe Mirza - 2nd Commit - May 9
+
+Alex Graber - 1st commit on May 9!
+Alex Graber - 2nd commit on May 10!
+
+
+Christina Chen, adding first commit! May 9
+Christina Chen, second commit. May 10. Happy sunday!
+
+George Jiang - 2nd commit May 11th.
+
+Ziling you are crazy man.
+
+Ziling Huang, Happy weekend here's my first commit! May 9 Adding a 2nd commit
+
+Ziling Huang, Adding another commit on Sunday May 10, 2020
+
+Ziling Huang, Happy weekend here's my first commit! May 9 Adding a 2nd commit
+ text
+
+ Mark Labovitz,  Hope all are safe, and made it through their first commitment like I have here.
+
+Amy Huynh's first commit! :)
+Amy Huynh's second commit on day 2! :)
+AH's third commit
+
+Alex To, showing committment on day 1.
+Alex To, still committed days later!
+
+
+Taehoon Kang-1st commit
+Taehoon Kang-2nd commit
+
+
+﻿Let's create some merge conflicts
+
+Day late~ Ryan Orton
+
+Joseph Alvarez in da house!!! last minute baby. May 11
+
+Preethi Raju - whoo! Let's get some merge conflicts!
+preethi - edit 2
+preethi - edit 3
+
+Chris's first commit - resetting the edit file from the prior class? (Danie here: I edited your line Chris.)
+
+Lucas here - very excited after running my first shell script
+
+I will try to create a conflict :)
+
+Hello from Lindsay. Github is fun! A lot!
+Chris's 2nd commit:  The level of 'fun' is directly proportional to how often git does what I expect it to do - but its a pretty neat tool.
+George Jiang: "Second to the comment above" - May 9th
+
+Paco here, finding it hard, \o/ but starting to enjoy it.
+
+Hey! This is Isabel. This is my first entry to this file.
+
+Fabio hacking the playground
+Analise joining the fun
+Daniel Chow 2nd commit
+
+Dhyani S Parekh- trying my first commit here. Hopefully it works!!
+Dhyani S Parekh- Doing my second commit here. I think I sort of get it now!! And its after midnight so a day after the first commit! ;) haha
+
+
+Ramon here: we used to say in law school, "not always right but always confident (first commit)." I think my new saying will in MIDS will be, "not always wrong but always confused (second commit)." FYI, I got a merge conflict, what I did is did a git pull for for the updated text file then I re-edited my little blurb here.
+
+This is Ziwei's first comment - happy friday!
+
+
+
+Haoyu here, May 7 2020.
+
+Brooks Modie - 1st commit May 7
+
++ Amar Chatterjee: This is my first rodeo.
+
+
++ Joe Mirza - Happy GitDay!
+
++ Hi from Lindsay, again.
+
++ I love merge conflicts
+Paco's second commit
+Paco's second commit with merge conflict accepted
+
+Happy Friday for you'll ! This is Isabel's second entry
+
+Happy Friday for you too!!! Lucas here
+Ryan here, edit #1!
+
+Ryan edit #2, trying to create a merge conflict.
+
+
+Amanda - commit #1, May 9, 2020
+Amanda - commit #2, May 10, 2020
+
+Amar Chatterjee: This is not my first rodeo.
+1st commit: Thomas trying to git it \n
+
+bmattina: What up crew? First commit (09May).
+bmattina: Get your homework done! Second commit (10May).
+
+Brooks Modie - 2nd commit May 9
+
+Jake's - 1st commit May 9th
+Jake's - 2nd commit May 10th (create a merge conflict here...)
+
+Alice Ye: adding 1st commit on May 9
+
+John Andrus - Yo Yo Yo first commit coming out of ATX
+
+Ginny's first commit - May 9
+Ginny's second commit - May 10
+
+Joe Mirza - 2nd Commit - May 9
+
+Alex Graber - 1st commit on May 9!
+Alex Graber - 2nd commit on May 10!
+
+
+Christina Chen, adding first commit! May 9
+Christina Chen, second commit. May 10. Happy sunday!
+
+George Jiang - 2nd commit May 11th.
+
+Ziling you are crazy man.
+
+Ziling Huang, Happy weekend here's my first commit! May 9 Adding a 2nd commit
+
+Ziling Huang, Adding another commit on Sunday May 10, 2020
+
+Ziling Huang, Happy weekend here's my first commit! May 9 Adding a 2nd commit
+ text
+
+ Mark Labovitz,  Hope all are safe, and made it through their first commitment like I have here.
+           Weather report: austin
+
+ [38;5;226m    \   /    [0m Sunny
+ [38;5;226m     .-.     [0m [38;5;226m75[0m..[38;5;220m77[0m °F[0m
+ [38;5;226m  ― (   ) ―  [0m [1m←[0m [38;5;046m0[0m mph[0m
+ [38;5;226m     `-’     [0m 9 mi[0m
+
+               Overcast
+ [38;5;240;1m     .--.    [0m [38;5;154m64[0m °F[0m
+ [38;5;240;1m  .-(    ).  [0m [1m↗[0m [38;5;208m16[0m mph[0m
+ [38;5;240;1m (___.__)__) [0m 9 mi[0m
+               0.0 in[0m
+            This is loop number .
+            The local system date and time is Mon May 11 18:09:02 CDT 2020.
+AlanZhang second git push
+text
+           Weather report: berkeley
+
+ [38;5;226m   \  /[0m       Partly cloudy
+ [38;5;226m _ /""[38;5;250m.-.    [0m [38;5;190m66[0m °F[0m
+ [38;5;226m   \_[38;5;250m(   ).  [0m [1m→[0m [38;5;202m18[0m mph[0m
+ [38;5;226m   /[38;5;250m(___(__) [0m 9 mi[0m
+               0.0 in[0m
+            This is loop number .
+            The local system date and time is Tue May 12 20:13:01 CDT 2020.
+
+
+2020_08_25 2:45PM Peter (Youngha) Kim was here! hahahaha
+
+2020_08_26 11:49PM Peter Kim created a merge conflict!
+
+Frankie Pun modified this file on 8/25/2020 12:36pm PT
+
+Hi everyone, Dom from Chicago is here!
+
+Hi everyone, Diana from SoCal!
+
+Frankie Pun modified this file on 8/26/2020 2:23pm PT
+
+Brooks Modie - first commit Aug 26 @ 5:20pm CT
+Brooks Modie - second commit Aug 28 @ 4:00pm CT
+
+Carolina Lee modified this file on 8/26/2020 7:55pm
+
+Hi everyone! Heather from CT was here 08-26-2020 ~8:30 pm
+Yo this is Anders with a commit
+Hi This is Kanika again
+First commit from Sarah in Chicago - 8/26/20
+Ricardo Jenez (making first commit)
+Ricardo Jenez (my 2nd commit)
+Ricardo Jenez (another one)
+Its Kanika again practicing!
+
+Heather Rancic here - 8-26-2020 - first commit
+Heather Rancic here - 8-28-2020 - second commit
+ text
+
+Follow [46m[30m@igor_chubin[0m for wttr.in updates
+            This is loop number .
+            The local system date and time is Wed Aug 26 21:56:34 CDT 2020.
+ text
+
+Follow [46m[30m@igor_chubin[0m for wttr.in updates
+            This is loop number .
+            The local system date and time is Wed Aug 26 21:56:39 CDT 2020.
+ text
+
+Follow [46m[30m@igor_chubin[0m for wttr.in updates
+            This is loop number .
+            The local system date and time is Wed Aug 26 22:08:21 CDT 2020.
+ text
+
+Follow [46m[30m@igor_chubin[0m for wttr.in updates
+            This is loop number .
+            The local system date and time is Wed Aug 26 22:08:28 CDT 2020.
+ text
+
+Follow [46m[30m@igor_chubin[0m for wttr.in updates
+            This is loop number .
+            The local system date and time is Wed Aug 26 22:13:25 CDT 2020.
+ text
+
+Follow [46m[30m@igor_chubin[0m for wttr.in updates
+            This is loop number .
+            The local system date and time is Wed Aug 26 22:13:30 CDT 2020.
+Diana Chacon adding second commit
+
+Mal here! Making my first edit on 8/27/2020
+
+Hello!
+
+Aidan adding an edit on 8/30/2020.
+
+Jerico first edit.
+ text
+
+Follow [46m[30m@igor_chubin[0m for wttr.in updates
+            This is loop number .
+            The local system date and time is Thu Aug 27 17:54:19 CDT 2020.
+ text
+
+Follow [46m[30m@igor_chubin[0m for wttr.in updates
+            This is loop number .
+            The local system date and time is Thu Aug 27 17:54:25 CDT 2020.
+ text
+
+Follow [46m[30m@igor_chubin[0m for wttr.in updates
+            This is loop number .
+            The local system date and time is Thu Aug 27 17:54:31 CDT 2020.
+ text
+
+Follow [46m[30m@igor_chubin[0m for wttr.in updates
+            This is loop number .
+            The local system date and time is Thu Aug 27 17:54:38 CDT 2020.
+ text
+
+  [38;5;226m   \  /[0m       Partly cloudy
+  [38;5;226m _ /""[38;5;250m.-.    [0m [38;5;190m66[0m °F[0m
+  [38;5;226m   \_[38;5;250m(   ).  [0m [1m→[0m [38;5;214m13[0m mph[0m
+  [38;5;226m   /[38;5;250m(___(__) [0m 9 mi[0m
+                0.0 in[0m
+            This is loop number .
+            The local system date and time is Thu Aug 27 20:19:48 CDT 2020.
+=======
+Brittany Dougall added a line.
+Brittany Dougall added one line
+
+
+=================================================================
+-- Jyoti Kumari
+-- This is my first git commit.
+
+=================================================================
+
+=================================================================
+-- Jyoti Kumari
+-- This is my second git commit.
+
+=================================================================
+
+>>>>>>> 2e26dffac277074037602057e8e647a98331e859
+ text
+           Weather report: berkeley
+
+  [38;5;226m   \  /[0m       Partly cloudy
+  [38;5;226m _ /""[38;5;250m.-.    [0m [38;5;190m66[0m °F[0m
+  [38;5;226m   \_[38;5;250m(   ).  [0m [1m→[0m [38;5;214m13[0m mph[0m
+  [38;5;226m   /[38;5;250m(___(__) [0m 9 mi[0m
+                0.0 in[0m
+            This is loop number .
+            The local system date and time is Thu Aug 27 20:19:54 CDT 2020.
+
+
+Carolina Lee modified this file on 8/28/2020 10:57am (previously modified on 8/26/2020 7:55pm)
+Malachy Moran second update 28 Aug 2020
+ text
+           Weather report: berkeley
+
+                Smoke, haze
+  [38;5;240;1m     .--.    [0m [38;5;154m64[0m °F[0m
+  [38;5;240;1m  .-(    ).  [0m [1m↘[0m [38;5;226m9[0m mph[0m
+  [38;5;240;1m (___.__)__) [0m 2 mi[0m
+                0.0 in[0m
+            This is loop number .
+            The local system date and time is Fri Aug 28 13:15:19 CDT 2020.
+
+Goodbye!
+ text
+           Weather report: berkeley
+
+                Smoke, haze
+  [38;5;240;1m     .--.    [0m [38;5;154m64[0m °F[0m
+  [38;5;240;1m  .-(    ).  [0m [1m↘[0m [38;5;226m9[0m mph[0m
+  [38;5;240;1m (___.__)__) [0m 2 mi[0m
+                0.0 in[0m
+            This is loop number .
+            The local system date and time is Fri Aug 28 13:36:46 CDT 2020.
+
+Professor: Editing the same lines and committing will give a merge conflict:
+Me: Edits same line
+Git: CONFLICT (content): Merge conflict in edit.txt
+Me:
+⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡏⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿
+⣿⣿⣿⣿⣿⣿⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⣿
+⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀⣸⣿
+⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢰⣹⡆⠀⠀⠀⠀⠀⠀⣭⣷⠀⠀⠀⠸⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠈⠉⠀⠀⠤⠄⠀⠀⠀⠉⠁⠀⠀⠀⠀⢿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⢾⣿⣷⠀⠀⠀⠀⡠⠤⢄⠀⠀⠀⠠⣿⣿⣷⠀⢸⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
+ text
+           Weather report: berkeley
+
+                Smoke, haze
+  [38;5;240;1m     .--.    [0m [38;5;154m64[0m °F[0m
+  [38;5;240;1m  .-(    ).  [0m [1m↘[0m [38;5;226m9[0m mph[0m
+  [38;5;240;1m (___.__)__) [0m 2 mi[0m
+                0.0 in[0m
+            This is loop number .
+            The local system date and time is Fri Aug 28 14:21:29 CDT 2020.
+ text
+           Weather report: berkeley
+
+
+  [38;5;226m   \  /[0m       Smoke, haze
+  [38;5;226m _ /""[38;5;250m.-.    [0m [38;5;190m68[0m °F[0m
+  [38;5;226m   \_[38;5;250m(   ).  [0m [1m→[0m [38;5;220m11[0m mph[0m
+  [38;5;226m   /[38;5;250m(___(__) [0m 4 mi[0m
+                0.0 in[0m
+            This is loop number .
+            The local system date and time is Fri Aug 28 15:59:12 CDT 2020.
+ text
+           Weather report: berkeley
+
+  [38;5;226m   \  /[0m       Smoke, haze
+  [38;5;226m _ /""[38;5;250m.-.    [0m [38;5;190m68[0m °F[0m
+  [38;5;226m   \_[38;5;250m(   ).  [0m [1m→[0m [38;5;220m11[0m mph[0m
+  [38;5;226m   /[38;5;250m(___(__) [0m 4 mi[0m
+                0.0 in[0m
+            This is loop number .
+            The local system date and time is Fri Aug 28 16:03:06 CDT 2020.
+JO Commit
+
+Natasha commit #1
+Natasha commit #2!
+
+Andrew commit #1! WOOH!
+
+
+-------------Lit Phansiri 20200829 W200--------------------
+First Comment of the class
+-----------------------------------------------------------
+-------------Lit Phansiri 20200830 W200--------------------
+Second Comment of the class --- There is a typhoon coming to hit Okinawa on Monday night...
+-----------------------------------------------------------
+
+Brittany Dougall added a 2nd commit at 7:17 pm PST on 8/28/20.
+
+Kevin commit #1
+
+Razal needs to commit to sleep
+===================
+This should be a conflict by Razal
+=======
+
+Gerrit's first commit
+
+Sean Norris: First Commit 8-27-2020
+Sean Norris: First Commit Part 2 8-29-2020. This is actually my second commit
+Gerrit Lensink's First commit
+
++++++++++++++++
+Sam Temlock | 8/29/2020 | CT: First commit via VI :-)
+
+==============================
+Alicia Scott | 8/29/20 2:25pm | Commit #1 Note to self: read the entirety of the homework assignment. And start sooner. :) You'll be fine you've still got plenty of time! :)
+
+==============================
+
+Vikram Mukhi:08/29/2020 3:06pm first commit
+
+
+<<<<<<< HEAD
+this is Jesse Millers first commit on 8/29/2020 15:10 PSTthis is Jesse Millers first commit %cd%
+=======
+this is Jesse Millers first commit on 8/29/2020 15:10 PST
+
+====== Tammy Tian - 1 -  8/29/2020 ========
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+===========================================
+
+Luis Delgado's first commit on 29 Aug at 4:16 PST
+
+Inigo. Coming late to the party! first commit 8/29 @ 6:48 PST!!
+
+Heather Reed's first commit 29 AUG 7:48pm PST.
+This is my first comment -Stephanie Laface
+This is my comment at 8/29/20 8:00PM -Stephanie Laface
+
+Vanesa Lee's first commit 8/29/2020
+Aditya Bajaj's first commit 8/29/2020
+
+Gerrit Lensink's Second commit 8/30
+
+Daniel Ryu - will commit one more time!
+Ruby Han - First Commit 8/30/20 10:46AM CDT
+
+Andrew Wong - First commit?
+
+Parker Williams first commit 8/30/20 10:05 PST
+Nathan Martinez 8/30/2020
+
+Jerico second edit :o
+
+Kevin's #2
+
+Resolving conflict by Razal
+
+Cynthia adds this line.
+
+Jared's 1st commit.
+
+
+
+Marc Semonick - first edit
+
+Alicia Scott's second commit | 8/30/20 6pm
+
+<<<<<<< HEAD
+
+This is jagan lakshmipathy's commit for W200. - 08/31/2020.
+
+>>>>>>> d5e173107f192379731278ad7709777b72d9320f
+>>>>>>> 70594a3c557199dbd8ca7029e8dfea772691999a
+
+=======
+
+JJP, hope this works, 8/30/2020 7:16 pm
+Vikram Mukhi 2nd edit
+
+
+
+Luis Delgado removed a merge conflict and recommitted on 30 Aug 2020 at 4:38PM PST.
+Have a great week everyone.
+
+Vaishali's first commit.
+
+Lucas Schroyer First commit at 3:51 PM on August 30th
+Lucas Schroyer Second commit at 5:27 PM on August 30th after fixing a merge conflict
+>>>>>>> 667b9691e8f79e02536142bdeb7db0fd729a9316
+ text
+           Weather report: berkeley
+
+  [38;5;226m   \  /[0m       Partly cloudy
+  [38;5;226m _ /""[38;5;250m.-.    [0m [38;5;190m66[0m °F[0m
+  [38;5;226m   \_[38;5;250m(   ).  [0m [1m→[0m [38;5;202m17[0m mph[0m
+  [38;5;226m   /[38;5;250m(___(__) [0m 8 mi[0m
+                0.0 in[0m
+            This is loop number .
+            The local system date and time is Sun Aug 30 19:30:53 CDT 2020.
+First commit: NOM 08/30/2020 9 49 pm
+Hello from North Fork, NY! This is my first (late) commit.
+This is my second submission -Stephanie Laface 8/30/20 8:36 PM PST
+
+====== Tammy Tian - 2 -  8/30/2020 ========
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+===========================================
+Fenjun Zhang 2nd Commit
+ text
+           Weather report: berkeley
+
+  [38;5;226m   \  /[0m       Partly cloudy
+  [38;5;226m _ /""[38;5;250m.-.    [0m [38;5;154m60[0m °F[0m
+  [38;5;226m   \_[38;5;250m(   ).  [0m [1m↘[0m [38;5;226m9[0m mph[0m
+  [38;5;226m   /[38;5;250m(___(__) [0m 8 mi[0m
+                0.0 in[0m
+            This is loop number .
+            The local system date and time is Sun Aug 30 23:35:52 CDT 2020.
+
+This is Marc Semonick's second edit
+
+Vanesa's Second Commit 8/30/2020
+
+Dera Here. I really should read the homework problems. This is a public pledge to not procrastinate on my homework!
+ Accepted changes - Dera. I cant even spell my name right :D
+This is Frank Song here. It is confusing but yet fun to work with Terminal and Git. My first edit.
+Adding one more line because it says it is up to date but I changed it. Why
+
+Frank's second commit! 9/1/2020
+Yay!!
+
+Mohamed Gesalla's 2nd commit (and here!)
+
+Committing to commit my first commit - Frank Staszak: 8.31.20
+
+Jared's 2nd commit
+
+Aditya Bajaj 2nd commit
+
+
+Hello from Somerville, MA. Today is the MA primary - hope everyone who is able to register to vote is registered!
+
+Adding some more edits here
+
+Nathan's second commit 
+###################################
+
+This is Vasudev Killada. This is going to be my first commit - 09/02/2020 12.16 PM PST
+ text
+           Weather report: berkeley
+
+                Overcast
+  [38;5;240;1m     .--.    [0m [38;5;190m68[0m °F[0m          
+  [38;5;240;1m  .-(    ).  [0m [1m↘[0m [38;5;226m9[0m mph[0m        
+  [38;5;240;1m (___.__)__) [0m 6 mi[0m           
+                0.0 in[0m         
+            This is loop number .
+            The local system date and time is Wed Sep  2 14:22:54 CDT 2020.
+
+--------------------------Ruilan--------------------------------
+⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡏⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿
+⣿⣿⣿⣿⣿⣿⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⣿
+⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀⣸⣿
+⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢰⣹⡆⠀⠀⠀⠀⠀⠀⣭⣷⠀⠀⠀⠸⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠈⠉⠀⠀⠤⠄⠀⠀⠀⠉⠁⠀⠀⠀⠀⢿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⢾⣿⣷⠀⠀⠀⠀⡠⠤⢄⠀⠀⠀⠠⣿⣿⣷⠀⢸⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
+ text
+           Weather report: berkeley
+
+  [38;5;226m    \   /    [0m Sunny
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
+  [38;5;226m     `-’     [0m 9 mi[0m           
+  [38;5;226m    /   \    [0m 0.0 in[0m         
+            This is loop number .
+            The local system date and time is Wed Sep  2 19:01:12 CDT 2020.
+ text
+           Weather report: berkeley
+
+  [38;5;226m    \   /    [0m Sunny
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
+  [38;5;226m     `-’     [0m 9 mi[0m           
+  [38;5;226m    /   \    [0m 0.0 in[0m         
+            This is loop number .
+            The local system date and time is Wed Sep  2 19:22:11 CDT 2020.
+
+saying hello to the edit.txt file here
+
+ text
+           Weather report: berkeley
+
+  [38;5;226m    \   /    [0m Sunny
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
+  [38;5;226m     `-’     [0m 9 mi[0m           
+  [38;5;226m    /   \    [0m 0.0 in[0m         
+            This is loop number .
+            The local system date and time is Wed Sep  2 19:24:04 CDT 2020.
+hello edit.txt
+nice weather over there
+hello again; testing
+=======
+ text
+           Weather report: berkeley
+
+Hi This is jagan's second commit.
+
+This is Jagan's third change to create conflict and merge.
+
+  [38;5;226m    \   /    [0m Sunny
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
+  [38;5;226m     `-’     [0m 9 mi[0m           
+  [38;5;226m    /   \    [0m 0.0 in[0m         
+            This is loop number .
+            The local system date and time is Wed Sep  2 19:28:30 CDT 2020.
+>>>>>>> 92f7185d24f5a82fdc538d591e99b59325526b07
+ text
+           Weather report: berkeley
+
+  [38;5;226m    \   /    [0m Sunny
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
+  [38;5;226m     `-’     [0m 9 mi[0m           
+  [38;5;226m    /   \    [0m 0.0 in[0m         
+            This is loop number .
+            The local system date and time is Wed Sep  2 19:33:26 CDT 2020.
+>>>>>>> cf8b15853fa771cf7ffd558585456d5ad503acc5
+ text
+           Weather report: berkeley
+
+  [38;5;226m    \   /    [0m Sunny
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
+  [38;5;226m     `-’     [0m 9 mi[0m           
+  [38;5;226m    /   \    [0m 0.0 in[0m         
+            This is loop number .
+            The local system date and time is Wed Sep  2 19:56:48 CDT 2020.
+ text
+           Weather report: berkeley
+
+  [38;5;226m    \   /    [0m Sunny
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
+  [38;5;226m     `-’     [0m 9 mi[0m           
+  [38;5;226m    /   \    [0m 0.0 in[0m         
+            This is loop number .
+            The local system date and time is Wed Sep  2 20:04:16 CDT 2020.
+ text
+           Weather report: berkeley
+
+  [38;5;226m    \   /    [0m Sunny
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
+  [38;5;226m     `-’     [0m 9 mi[0m           
+  [38;5;226m    /   \    [0m 0.0 in[0m         
+            This is loop number .
+            The local system date and time is Wed Sep  2 20:09:13 CDT 2020.
+>>>>>>> f507d1ac7a4ea3d21947afec10a6617a396e24ed
+Jesse Miller's second commit, a little late, sorry I forgot!
+This is my second commit to this assignment. It is very exciting. I cannot wait to see if I have any merge conflicts. I look forward to fixing them.
+Finnian Meaghers first commit
+
+Julian Hicks first commit: stardate 202009022145
+
+Elio's second commit.
+Jorge Dayer 1st commit
+
+One more commit from Frank Staszak - Hi All!!
+
+---------Ruilan's 2nd----------------
+
+
+------------------------------------------------------------------------------------------
+Hi,
+This is Leon Gutierrez, 
+Today is Tuesday 9/1/20 and it is my first commit.
+
+__________________________________________________________________________________________
+This is Leon Gutierrez,
+Today is Thursday 9/3/20, and it is my second commit. I'm done!
+
+⣿⣿⣿⣿⣿⡏⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿
+⣿⣿⣿⣿⣿⣿⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⣿
+⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀⣸⣿
+⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀     ⠀⠀⠀⠸⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀  ⠀⠀  ⠀⠀⠀   ⠀⠀⠀⠀⢿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿   ⠀⠀⠀⠀   ⠀⠀⠀     ⠀⢸⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀    ⠀⠀⠀⠀   ⠀⠀⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
+
+-------------
+This is Pradeep Chelpati. This is my first commit to Git !! 09/03/2020 ....
+------
+
+Alexander Snyder - commit 1b (pushed earlier this week but currently not seeing my edit)
+
+Muhammad Jawaid 1st Edit
