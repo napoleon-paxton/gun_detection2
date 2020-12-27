@@ -1,8 +1,8 @@
 this is a sample line
 
-
-
-
+Begining of edits from computer1
+middle of edits from computer1
+end	of edits from computer1
 
 Beginning of edits from computer2
 middle of edits from computer2
