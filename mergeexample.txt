@@ -7,3 +7,4 @@ end	of edits from computer1
 Beginning of edits from computer2
 middle of edits from computer2
 end of edits from computer2
+This is a pretty good learning experience
