@@ -1,1 +1,9 @@
 this is a sample line
+
+
+
+
+
+Beginning of edits from computer2
+middle of edits from computer2
+end of edits from computer2
