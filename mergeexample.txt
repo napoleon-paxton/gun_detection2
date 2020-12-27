@@ -7,3 +7,5 @@ end	of edits from computer1
 Beginning of edits from computer2
 middle of edits from computer2
 end of edits from computer2
+
+trying the other conflict again
