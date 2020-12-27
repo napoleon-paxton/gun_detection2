@@ -1,8 +1,8 @@
 this is a sample line
 
-Begining of edits from computer1
-middle of edits from computer1
-end	of edits from computer1
+merging test 25: Begining of edits from computer1
+merging test 25: middle of edits from computer1
+merging test 25: end	of edits from computer1
 
 merge test 26: Beginning of edits from computer2
 merge test 26: middle of edits from computer2
