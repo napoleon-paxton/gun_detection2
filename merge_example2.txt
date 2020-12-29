@@ -5,8 +5,8 @@ Some fake code
 
 import fake code from module
 
-This is an interesting analysis that is even better than I imagined!!
-I am writing it now and will all year.
+This analysis is okay.  It gave us some insights, but we might want 
+to try another approach
 
 More Test
 
