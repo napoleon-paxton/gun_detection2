@@ -1,11 +1,1 @@
-I am doing editing on computer 1
-
-<<<<<<< HEAD
-I messed here in computer 2 in the middle of original lines !
-
-Happy Merging !!
-=======
-Happy Merging !!
-
-I do messed it up in Computer 1 ! Let's check comp2
->>>>>>> 7a8f60161d182dc0a37d5341b74aac0d5da46df2
+This is Franny messing around with the code :)
