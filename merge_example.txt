@@ -2,7 +2,7 @@ This is Franny messing around with the code :)
 <<<<<<< HEAD
 
 
-+++++
++++++ This is cool! (Says Computer_1)
 
 Adding more code to Computer 2 file ;)
 =======
