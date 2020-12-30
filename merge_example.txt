@@ -1,10 +1,7 @@
 This is Franny messing around with the code :)
-<<<<<<< HEAD
 
-
-+++++ This is NOT cool! (Says Computer_2)
+Content in the same line of code is now resolved! 
 
 Adding more code to Computer 2 file ;)
-=======
+
 This is Franny messing around with the code on Computer 1 once again ;)
->>>>>>> 8de76d6fc1ed482200035a1f58d98169e49a0bbc
