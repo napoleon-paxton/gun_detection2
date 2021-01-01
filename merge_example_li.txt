@@ -1,0 +1,3 @@
+'''use for the lectures'''
+
+print("hello world")
