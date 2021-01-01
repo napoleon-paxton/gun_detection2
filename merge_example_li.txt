@@ -1,5 +1,3 @@
 '''use for the lectures'''
 
-"print(""hello world"")"
-
-"print(""Additional hello world"")"
+le;s do it again some other times.
