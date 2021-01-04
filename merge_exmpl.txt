@@ -1,6 +1,8 @@
 Sample file.
 sample file line 2
 
+new analysis
+
 fake code
 
 some really important stuff
