@@ -5,8 +5,7 @@ new analysis
 
 fake code
 
-creating a merge conflict.
-this is good
+Merge conflict resolved.
 
 more text
 
