@@ -5,7 +5,8 @@ new analysis
 
 fake code
 
-some really important stuff
+This is not important - let's create a merge conflict.
+this is bad.
 
 more text
 
