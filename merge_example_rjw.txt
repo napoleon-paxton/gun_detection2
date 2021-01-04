@@ -7,7 +7,7 @@ Here is some fake code
 I wanted to add more stuff to this message
 =======
 add a new section of code
-this analysis was really cool
+this analysis was really cool.  This analysis is even better than I imagnined and I will work on it all year. 
 
 Here is some fake code
 >>>>>>> fda6cfbed40a4a8cd6409e7deabcfe86ab8fed53
