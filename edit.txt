@@ -739,7 +739,7 @@ Hello from Somerville, MA. Today is the MA primary - hope everyone who is able t
 
 Adding some more edits here
 
-Nathan's second commit 
+Nathan's second commit
 ###################################
 
 This is Vasudev Killada. This is going to be my first commit - 09/02/2020 12.16 PM PST
@@ -747,10 +747,10 @@ This is Vasudev Killada. This is going to be my first commit - 09/02/2020 12.16 
            Weather report: berkeley
 
                 Overcast
-  [38;5;240;1m     .--.    [0m [38;5;190m68[0m °F[0m          
-  [38;5;240;1m  .-(    ).  [0m [1m↘[0m [38;5;226m9[0m mph[0m        
-  [38;5;240;1m (___.__)__) [0m 6 mi[0m           
-                0.0 in[0m         
+  [38;5;240;1m     .--.    [0m [38;5;190m68[0m °F[0m
+  [38;5;240;1m  .-(    ).  [0m [1m↘[0m [38;5;226m9[0m mph[0m
+  [38;5;240;1m (___.__)__) [0m 6 mi[0m
+                0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 14:22:54 CDT 2020.
 
@@ -773,20 +773,20 @@ This is Vasudev Killada. This is going to be my first commit - 09/02/2020 12.16 
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:01:12 CDT 2020.
  text
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:22:11 CDT 2020.
 
@@ -796,10 +796,10 @@ saying hello to the edit.txt file here
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:24:04 CDT 2020.
 hello edit.txt
@@ -814,10 +814,10 @@ Hi This is jagan's second commit.
 This is Jagan's third change to create conflict and merge.
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:28:30 CDT 2020.
 >>>>>>> 92f7185d24f5a82fdc538d591e99b59325526b07
@@ -825,10 +825,10 @@ This is Jagan's third change to create conflict and merge.
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:33:26 CDT 2020.
 >>>>>>> cf8b15853fa771cf7ffd558585456d5ad503acc5
@@ -836,30 +836,30 @@ This is Jagan's third change to create conflict and merge.
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:56:48 CDT 2020.
  text
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 20:04:16 CDT 2020.
  text
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 20:09:13 CDT 2020.
 >>>>>>> f507d1ac7a4ea3d21947afec10a6617a396e24ed
@@ -879,7 +879,7 @@ One more commit from Frank Staszak - Hi All!!
 
 ------------------------------------------------------------------------------------------
 Hi,
-This is Leon Gutierrez, 
+This is Leon Gutierrez,
 Today is Tuesday 9/1/20 and it is my first commit.
 
 __________________________________________________________________________________________
@@ -907,3 +907,14 @@ Alexander Snyder - commit 1b (pushed earlier this week but currently not seeing 
 Muhammad Jawaid 1st Edit
 
 input stuff and things
+
+
+### RHS First Edit 2021-01-04
+Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+satoshin@gmx.com
+www.bitcoin.org
+Abstract. A purely peer-to-peer version of electronic cash would allow online
+payments to be sent directly from one party to another without going through a
+financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending problem using a peer-to-peer network. The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work. The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power. As long as a majority of CPU power is controlled by nodes that are not cooperating to attack the network, they'll generate the longest chain and outpace attackers. The network itself requires minimal structure. Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will, accepting the longest proof-of-work chain as proof of what happened while they were gone.
+####
