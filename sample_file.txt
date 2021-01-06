@@ -1,3 +1,7 @@
 This is a sample file.
 Here is line 2. Some fake code. import fake code from module.
+<<<<<<< HEAD
 This is an entirely different new line in the sample_file.txt. Checking for merge conflict.
+=======
+Add a new section of code. This new analysis was really cool.
+>>>>>>> bba94d1d8c5ab3745f105a14647ddfffa9bd1b45
