@@ -741,6 +741,7 @@ Jared's 2nd commit
 
 Aditya Bajaj 2nd commit
 
+Hi, Shuhan here. This is my first commit. This is such a long file. 
 
 Hello from Somerville, MA. Today is the MA primary - hope everyone who is able to register to vote is registered!
 
@@ -962,3 +963,5 @@ This is Charlie Boatwright's first commit to github on 1/5/21
 This is Bo He. Today is Jan. 6, 2021. This is my first commit
 
 Hello, everyone!  I'm Lea, and this is my first commit on 1/6/21.
+
+
