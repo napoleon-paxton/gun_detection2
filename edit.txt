@@ -945,3 +945,6 @@ This is Anand Patel
 Today is Tuesday 1/5/21 and it is my first commit.
 
 This is Vijay. 1/5/21 and first commit.
+
+This is Trevor Johnson. Today is 1/5/2021. This is my first commit.
+
