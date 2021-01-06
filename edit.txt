@@ -1,3 +1,6 @@
+This is Joseph Issa, first commit- line 1.
+_______________________________________
+
 Resolving them is not always easy. -TG
 
 Jqjq's 2nd commit, 1st commit disappeared
@@ -438,6 +441,8 @@ Mal here! Making my first edit on 8/27/2020
 
 Hello!
 
+This is Abdullahi Abdinur. To reduce the chances of a merge conflict. I am editing in the middle since majority of the people will either go for the top or bottom: First edit: 01/05/2021.
+-----------------------------------
 Aidan adding an edit on 8/30/2020.
 
 Jerico first edit.
@@ -933,3 +938,10 @@ best effort basis, and nodes can leave and rejoin the network at will,
 accepting the longest proof-of-work chain as proof of what happened
 while they were gone.
 ####
+
+------------------------------------------------------------------------------------------
+Hi,
+This is Anand Patel
+Today is Tuesday 1/5/21 and it is my first commit.
+
+This is Vijay. 1/5/21 and first commit.
