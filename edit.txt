@@ -247,8 +247,9 @@ Taehoon Kang-2nd commit
 ecb: I put an edit in here
 #ecb: I put another edit in here
 /* ecb I put one more edit in here */
+ecb: one more edit here
+Resolve merge conflict
 
-﻿Let's create some merge conflicts
 
 Day late~ Ryan Orton
 
