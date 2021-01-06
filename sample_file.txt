@@ -5,3 +5,4 @@ This is an entirely different new line in the sample_file.txt. Checking for merg
 =======
 Add a new section of code. This new analysis was really cool.
 >>>>>>> bba94d1d8c5ab3745f105a14647ddfffa9bd1b45
+This is an interesting analysis that is even better than I imagined.
