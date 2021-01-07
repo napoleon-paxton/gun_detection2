@@ -1,4 +1,4 @@
-=======
+﻿=======
 This is Joseph Issa, first commit- line 1.
 _______________________________________
 
@@ -98,6 +98,7 @@ Pc -- First Commit Here! 1st Commit
 
 KN's second commit! Fingers crossed! Did the work?
 
+Weijia's first commit
 
 Doing this again
 Asteroid 2018 VP1 will zoom past Earth on November 2, one day before Americans vote for the next president.
