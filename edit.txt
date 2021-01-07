@@ -1,7 +1,13 @@
-This is the second commit - Joseph Issa
+<<<<<<< HEAD
+This  is the second commit - Joseph Issa
 __________________________________________
+=======
+﻿=======
+>>>>>>> 52c417169c691aa17cd2730c41303585a31a079b
 This is Joseph Issa, first commit- line 1.
 _______________________________________
+
+Committing part of my life to this - MAP, 01062021
 
 Resolving them is not always easy. -TG
 
@@ -64,6 +70,7 @@ Nice job Chang! BOOM!
 
 testing my playground commit
 
+GG
 
 Tony Angell's first commit.  24 hr req is tricky!  (Karthik - Yes, It is! Editing your line to give you some merge conflict)  -- fixing 'unknown' showing as username on commiting into repo"
 
@@ -96,6 +103,7 @@ Pc -- First Commit Here! 1st Commit
 
 KN's second commit! Fingers crossed! Did the work?
 
+Weijia's first commit
 
 Doing this again
 Asteroid 2018 VP1 will zoom past Earth on November 2, one day before Americans vote for the next president.
@@ -248,8 +256,9 @@ Taehoon Kang-2nd commit
 ecb: I put an edit in here
 #ecb: I put another edit in here
 /* ecb I put one more edit in here */
+ecb: one more edit here
+Resolve merge conflict
 
-﻿Let's create some merge conflicts
 
 Day late~ Ryan Orton
 
@@ -443,6 +452,8 @@ Mal here! Making my first edit on 8/27/2020
 
 Hello!
 
+This is Abdullahi Abdinur. To reduce the chances of a merge conflict. I am editing in the middle since majority of the people will either go for the top or bottom: First edit: 01/05/2021.
+-----------------------------------
 Aidan adding an edit on 8/30/2020.
 
 Jerico first edit.
@@ -913,6 +924,10 @@ Muhammad Jawaid 1st Edit
 
 input stuff and things
 
+I don't know.
+But does that mean I have to walk on water.
+But does that mean I have to meet your father.
+
 
 ### RHS First Edit 2021-01-04
 Bitcoin: A Peer-to-Peer Electronic Cash System
@@ -937,4 +952,34 @@ network itself requires minimal structure. Messages are broadcast on a
 best effort basis, and nodes can leave and rejoin the network at will,
 accepting the longest proof-of-work chain as proof of what happened
 while they were gone.
-####
+
+Hi,
+This is Anand Patel
+Today is Tuesday 1/5/21 and it is my first commit.
+Today is Wednesday 1/6/21, and it is my second commit.
+
+This is Vijay. 1/5/21 and first commit.
+
+This is Trevor Johnson. Today is 1/5/2021. This is my first commit.
+
+This is Evan Chan's first commit on 1/5/21
+
+GG
+This is Charlie Boatwright's first commit to github on 1/5/21
+This is Bo He. Today is Jan. 6, 2021. This is my first commit
+
+Hello, everyone!  I'm Lea, and this is my first commit on 1/6/21.
+Anna's first commit
+
+This is Ajeya's comment on 1/6/2021. I will be back! Hasta la vista!
+Allison Rozich, first commit 06Jan2021
+Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
+Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
+Maria time stamp 1/6/2021
+
+
+
+Evan Chan's 2nd commit on 01/07/21
+
+Sebastian Urbina first commit, fun fun fun
+
