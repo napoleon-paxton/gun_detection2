@@ -1,5 +1,9 @@
 example
 add a new section of code
+<<<<<<< HEAD
 
 
 I wnat to add more stuff
+=======
+this is really cook
+>>>>>>> 1277487444b939724c87a335934041a7c8a54b34
