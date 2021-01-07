@@ -1,3 +1,7 @@
+=======
+This is Joseph Issa, first commit- line 1.
+_______________________________________
+
 Committing part of my life to this - MAP, 01062021
 
 Resolving them is not always easy. -TG
@@ -61,6 +65,7 @@ Nice job Chang! BOOM!
 
 testing my playground commit
 
+GG
 
 Tony Angell's first commit.  24 hr req is tricky!  (Karthik - Yes, It is! Editing your line to give you some merge conflict)  -- fixing 'unknown' showing as username on commiting into repo"
 
@@ -242,8 +247,12 @@ Alex To, still committed days later!
 Taehoon Kang-1st commit
 Taehoon Kang-2nd commit
 
+ecb: I put an edit in here
+#ecb: I put another edit in here
+/* ecb I put one more edit in here */
+ecb: one more edit here
+Resolve merge conflict
 
-﻿Let's create some merge conflicts
 
 Day late~ Ryan Orton
 
@@ -437,6 +446,8 @@ Mal here! Making my first edit on 8/27/2020
 
 Hello!
 
+This is Abdullahi Abdinur. To reduce the chances of a merge conflict. I am editing in the middle since majority of the people will either go for the top or bottom: First edit: 01/05/2021.
+-----------------------------------
 Aidan adding an edit on 8/30/2020.
 
 Jerico first edit.
@@ -738,7 +749,7 @@ Hello from Somerville, MA. Today is the MA primary - hope everyone who is able t
 
 Adding some more edits here
 
-Nathan's second commit 
+Nathan's second commit
 ###################################
 
 This is Vasudev Killada. This is going to be my first commit - 09/02/2020 12.16 PM PST
@@ -746,10 +757,10 @@ This is Vasudev Killada. This is going to be my first commit - 09/02/2020 12.16 
            Weather report: berkeley
 
                 Overcast
-  [38;5;240;1m     .--.    [0m [38;5;190m68[0m °F[0m          
-  [38;5;240;1m  .-(    ).  [0m [1m↘[0m [38;5;226m9[0m mph[0m        
-  [38;5;240;1m (___.__)__) [0m 6 mi[0m           
-                0.0 in[0m         
+  [38;5;240;1m     .--.    [0m [38;5;190m68[0m °F[0m
+  [38;5;240;1m  .-(    ).  [0m [1m↘[0m [38;5;226m9[0m mph[0m
+  [38;5;240;1m (___.__)__) [0m 6 mi[0m
+                0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 14:22:54 CDT 2020.
 
@@ -772,20 +783,20 @@ This is Vasudev Killada. This is going to be my first commit - 09/02/2020 12.16 
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:01:12 CDT 2020.
  text
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:22:11 CDT 2020.
 
@@ -795,10 +806,10 @@ saying hello to the edit.txt file here
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:24:04 CDT 2020.
 hello edit.txt
@@ -813,10 +824,10 @@ Hi This is jagan's second commit.
 This is Jagan's third change to create conflict and merge.
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:28:30 CDT 2020.
 >>>>>>> 92f7185d24f5a82fdc538d591e99b59325526b07
@@ -824,10 +835,10 @@ This is Jagan's third change to create conflict and merge.
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:33:26 CDT 2020.
 >>>>>>> cf8b15853fa771cf7ffd558585456d5ad503acc5
@@ -835,30 +846,30 @@ This is Jagan's third change to create conflict and merge.
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:56:48 CDT 2020.
  text
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 20:04:16 CDT 2020.
  text
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 20:09:13 CDT 2020.
 >>>>>>> f507d1ac7a4ea3d21947afec10a6617a396e24ed
@@ -878,7 +889,7 @@ One more commit from Frank Staszak - Hi All!!
 
 ------------------------------------------------------------------------------------------
 Hi,
-This is Leon Gutierrez, 
+This is Leon Gutierrez,
 Today is Tuesday 9/1/20 and it is my first commit.
 
 __________________________________________________________________________________________
@@ -906,3 +917,59 @@ Alexander Snyder - commit 1b (pushed earlier this week but currently not seeing 
 Muhammad Jawaid 1st Edit
 
 input stuff and things
+
+I don't know.
+But does that mean I have to walk on water.
+But does that mean I have to meet your father.
+
+
+### RHS First Edit 2021-01-04
+Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+satoshin@gmx.com
+www.bitcoin.org
+Abstract. A purely peer-to-peer version of electronic cash would allow
+online
+payments to be sent directly from one party to another without going through a
+
+financial institution. Digital signatures provide part of the solution, but the
+main benefits are lost if a trusted third party is still required to prevent
+double-spending. We propose a solution to the double-spending problem using a
+peer-to-peer network. The network timestamps transactions by hashing them
+into an ongoing chain of hash-based proof-of-work, forming a record that
+cannot be changed without redoing the proof-of-work. The longest chain not
+only serves as proof of the sequence of events witnessed, but proof that
+it came from the largest pool of CPU power. As long as a majority of CPU
+power is controlled by nodes that are not cooperating to attack the
+network, they'll generate the longest chain and outpace attackers. The
+network itself requires minimal structure. Messages are broadcast on a
+best effort basis, and nodes can leave and rejoin the network at will,
+accepting the longest proof-of-work chain as proof of what happened
+while they were gone.
+####
+
+------------------------------------------------------------------------------------------
+Hi,
+This is Anand Patel
+Today is Tuesday 1/5/21 and it is my first commit.
+Today is Wednesday 1/6/21, and it is my second commit.
+
+This is Vijay. 1/5/21 and first commit.
+
+This is Trevor Johnson. Today is 1/5/2021. This is my first commit.
+
+This is Evan Chan's first commit on 1/5/21
+
+GG
+This is Charlie Boatwright's first commit to github on 1/5/21
+This is Bo He. Today is Jan. 6, 2021. This is my first commit
+
+Hello, everyone!  I'm Lea, and this is my first commit on 1/6/21.
+Anna's first commit
+
+This is Ajeya's comment on 1/6/2021. I will be back! Hasta la vista!
+Allison Rozich, first commit 06Jan2021
+Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
+Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
+Maria time stamp 1/6/2021
+Sebastian Urbina first commit, fun fun fun
