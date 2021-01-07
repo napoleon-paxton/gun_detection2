@@ -2,8 +2,10 @@ example
 add a new section of code
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 
-I want to add even more stuff it's magic I love it so much
+this analysis is ok
+>>>>>>> 20d1e229d7ced14f3bd24df38cb2ccb77295e39d
 =======
 this is really cook
 >>>>>>> 1277487444b939724c87a335934041a7c8a54b34
