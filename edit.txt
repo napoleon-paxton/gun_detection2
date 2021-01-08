@@ -1,6 +1,9 @@
-﻿=======
+This  is the second commit - Joseph Issa
+__________________________________________
 This is Joseph Issa, first commit- line 1.
 _______________________________________
+
+Elise’s first commit!
 
 Committing part of my life to this - MAP, 01062021
 
@@ -627,58 +630,7 @@ Alicia Scott | 8/29/20 2:25pm | Commit #1 Note to self: read the entirety of the
 Vikram Mukhi:08/29/2020 3:06pm first commit
 
 
-<<<<<<< HEAD
 this is Jesse Millers first commit on 8/29/2020 15:10 PSTthis is Jesse Millers first commit %cd%
-=======
-this is Jesse Millers first commit on 8/29/2020 15:10 PST
-
-====== Tammy Tian - 1 -  8/29/2020 ========
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-===========================================
-
-Luis Delgado's first commit on 29 Aug at 4:16 PST
-
-Inigo. Coming late to the party! first commit 8/29 @ 6:48 PST!!
-
-Heather Reed's first commit 29 AUG 7:48pm PST.
-This is my first comment -Stephanie Laface
-This is my comment at 8/29/20 8:00PM -Stephanie Laface
-
-Vanesa Lee's first commit 8/29/2020
-Aditya Bajaj's first commit 8/29/2020
-
-Gerrit Lensink's Second commit 8/30
-
-Daniel Ryu - will commit one more time!
-Ruby Han - First Commit 8/30/20 10:46AM CDT
-
-Andrew Wong - First commit?
-
-Parker Williams first commit 8/30/20 10:05 PST
-Nathan Martinez 8/30/2020
-
-Jerico second edit :o
-
-Kevin's #2
-
-Resolving conflict by Razal
-
-Cynthia adds this line.
-
-Jared's 1st commit.
-
-
-
-Marc Semonick - first edit
-
-Alicia Scott's second commit | 8/30/20 6pm
-
-<<<<<<< HEAD
-
-This is jagan lakshmipathy's commit for W200. - 08/31/2020.
-
->>>>>>> d5e173107f192379731278ad7709777b72d9320f
 >>>>>>> 70594a3c557199dbd8ca7029e8dfea772691999a
 
 =======
@@ -888,6 +840,7 @@ One more commit from Frank Staszak - Hi All!!
 
 ---------Ruilan's 2nd----------------
 
+Week01 first commit -Viswanathan 01/07/21
 
 ------------------------------------------------------------------------------------------
 Hi,
@@ -962,10 +915,13 @@ This is Evan Chan's first commit on 1/5/21
 
 GG
 This is Charlie Boatwright's first commit to github on 1/5/21
+
 This is Bo He. Today is Jan. 6, 2021. This is my first commit
 
 Hello, everyone!  I'm Lea, and this is my first commit on 1/6/21.
 Anna's first commit
+
+Anna's second commit, intentional merge conflict
 
 This is Ajeya's comment on 1/6/2021. I will be back! Hasta la vista!
 Allison Rozich, first commit 06Jan2021
@@ -979,3 +935,49 @@ Evan Chan's 2nd commit on 01/07/21
 
 Sebastian Urbina first commit, fun fun fun
 
+******
+Hey there, this is Mai. Checking in for my first commit on 01/07/2021. I hope you're doing great.
+What do you plan for this weekend? What is your recommendation for work-life-school balance?
+We need durability to last for long. Don't burn yourselve out for overworking. Have enough break & fun.
+Let's try to excercise regularly, and have good sleep too.
+Checking back in tomorrow...
+******
+
+Oswaldo's first commit on 1/6/2021.
+
+Chanho Moon's first commit, 01/07/21
+
+************************************************************************************************
+Nikhil Chikmagalur PrasannaKumar was here - 01/07/2021
+**************************************************************************************************
+
+This is Vijay. 1/5/21 and first commit.
+This is Vijay. 1/7/21 and Second commit.
+=============================================================================
+Austin Jin's first commit on 01/07/2021
+=============================================================================
+My dog named Goose loves to chase Geese
+Monali's first commit
+
+Yay finishing up my homework today!  Lea's second commit on 1/7/21.Jillian is 2commit2quit
+
+
+Ricollis Jones's First Commit 1/7/2021 4:31 P.M. Also hello !!
+
+Michael Saffell First Commit 1/7/2021 5:39 PM PST!!
+
+This is Charlie Boatwright's second commit to the this file on 1/7/2021, about 48 hours after the first commit.
+
+As I am writing this commit, I found out that Elon Musk is the world's richest person. #stonks
+Also, this is Jericho Villareal. I'm the one who wrote about Elon. Date of commit: 1/7/2021 7:49pm PST
+Testing the new line functionality. 
+This should be a new line.
+
+Trevor johnson's 2nd commit! on 1/7/2021
+
+## This is the first commit from Sitao on 1/7/2021
+
+Wai Ting Chan's first commit on 1/8/2020. Hope everyone is doing well
+
+
+Jason Cheung's first commit on 1/9/2020 username ckjcheung.  12:12am here in HK.  
