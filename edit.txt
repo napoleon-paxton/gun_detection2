@@ -742,6 +742,7 @@ Jared's 2nd commit
 Aditya Bajaj 2nd commit
 
 Hi, Shuhan here. This is my first commit. This is such a long file. 
+My second edit, may be I should not run git fetch so I can see some conflict here. 
 
 Hello from Somerville, MA. Today is the MA primary - hope everyone who is able to register to vote is registered!
 
