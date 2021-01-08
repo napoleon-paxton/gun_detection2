@@ -966,3 +966,8 @@ Ricollis Jones's First Commit 1/7/2021 4:31 P.M. Also hello !!
 Michael Saffell First Commit 1/7/2021 5:39 PM PST!!
 
 This is Charlie Boatwright's second commit to the this file on 1/7/2021, about 48 hours after the first commit.
+
+As I am writing this commit, I found out that Elon Musk is the world's richest person. #stonks
+Also, this is Jericho Villareal. I'm the one who wrote about Elon. Date of commit: 1/7/2021 7:49pm PST
+Testing the new line functionality. 
+This should be a new line.
