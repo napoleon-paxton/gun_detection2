@@ -971,3 +971,7 @@ As I am writing this commit, I found out that Elon Musk is the world's richest p
 Also, this is Jericho Villareal. I'm the one who wrote about Elon. Date of commit: 1/7/2021 7:49pm PST
 Testing the new line functionality. 
 This should be a new line.
+
+Trevor johnson's 2nd commit! on 1/7/2021
+
+
