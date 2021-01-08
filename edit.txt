@@ -1,4 +1,4 @@
-This  is the second commit - Joseph Issa
+﻿This  is the second commit - Joseph Issa
 __________________________________________
 This is Joseph Issa, first commit- line 1.
 _______________________________________
@@ -84,7 +84,7 @@ Shivani's first commit!!!
 Rui's third commit
 =================================================================
 
->>>>>>> b61a781b1528cc34d951d9a32c76242d1dac6113
+b61a781b1528cc34d951d9a32c76242d1dac6113
 
 Pow Chang did this First Commit Here!
 Pow Chang Second Commit..
