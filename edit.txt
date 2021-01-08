@@ -191,6 +191,7 @@ Ryan here, edit #1!
 
 Ryan edit #2, trying to create a merge conflict.
 
+Weijia's 2nd commit
 
 Amanda - commit #1, May 9, 2020
 Amanda - commit #2, May 10, 2020
