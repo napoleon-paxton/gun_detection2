@@ -1026,3 +1026,4 @@ Allison's first commit on 1/8. Happy Friday!
 Prachi's first commit 1/8 at 9:16 PM EST.
 >>>>>>> 772eb7c392481575255616f1fc8b06dd45c85fe7
 First Commit for HW1
+This is my second commit! - Jericho Villareal, 1/8/21 7:50pm PST
