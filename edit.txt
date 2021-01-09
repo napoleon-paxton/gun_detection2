@@ -44,6 +44,8 @@ Added in my second commit -DP
 
 "Life's good :)))" -my cat
 
+Catherine's first commit 1/9 - Happy New Year Y'all!
+
 
 Waited long enough, so there has to be merge conflict- Ferdous
 
@@ -1040,7 +1042,6 @@ Sebastian day2 push
 
 My second edit - homework almost complete! Madeline
 
-
 ||||||||||||||||||||||||||||||||||||||||||||||||||||					 
 |||						 |||	
 |||Frances Leung was here for commit No.1	 |||	
@@ -1049,3 +1050,4 @@ My second edit - homework almost complete! Madeline
 |||  					         ||| 				
 ||||||||||||||||||||||||||||||||||||||||||||||||||||
 
+Bo He's second commit on Jan 9, 2021
