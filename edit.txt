@@ -393,7 +393,7 @@ text
                0.0 in[0m
             This is loop number .
             The local system date and time is Tue May 12 20:13:01 CDT 2020.
-
+^ok this weather forecast is pretty neat :0
 
 2020_08_25 2:45PM Peter (Youngha) Kim was here! hahahaha
 
@@ -1058,3 +1058,4 @@ Bo He's second commit on Jan 9, 2021
 roger, roger - tori's first commit
 
 Parham M. was here - 1st Commit on 2021-01-09
+Hi there - this is Uzair for my 1st commit on Jan 9, 2020. Learning command line controls has been exciting
