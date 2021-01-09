@@ -1,4 +1,18 @@
+Den's first commit 2021/01/08
+
+This  is the second commit - Joseph Issa
+__________________________________________
+﻿=======
+This is Joseph Issa, first commit- line 1.
+_______________________________________
+
+Committing part of my life to this - MAP, 01062021
+
+Commiting my second part - MAP, 01082021
+
 Resolving them is not always easy. -TG
+
+John-Michael Stilb's 2nd edit.
 
 Jqjq's 2nd commit, 1st commit disappeared
 
@@ -27,6 +41,8 @@ Added in my second commit -DP
 
 "Life's good :)))" -my cat
 
+Catherine's first commit 1/9 - Happy New Year Y'all!
+
 
 Waited long enough, so there has to be merge conflict- Ferdous
 
@@ -48,7 +64,7 @@ Pickly coconouts
 Oliver C first commit
 Rui Li second commit
 Oliver C second commit
-
+Sean B second commit
 Abby B first commit
 
 This is my third commit -KN
@@ -59,6 +75,7 @@ Nice job Chang! BOOM!
 
 testing my playground commit
 
+GG
 
 Tony Angell's first commit.  24 hr req is tricky!  (Karthik - Yes, It is! Editing your line to give you some merge conflict)  -- fixing 'unknown' showing as username on commiting into repo"
 
@@ -91,6 +108,7 @@ Pc -- First Commit Here! 1st Commit
 
 KN's second commit! Fingers crossed! Did the work?
 
+Weijia's first commit
 
 Doing this again
 Asteroid 2018 VP1 will zoom past Earth on November 2, one day before Americans vote for the next president.
@@ -243,8 +261,9 @@ Taehoon Kang-2nd commit
 ecb: I put an edit in here
 #ecb: I put another edit in here
 /* ecb I put one more edit in here */
+ecb: one more edit here
+Resolve merge conflict
 
-﻿Let's create some merge conflicts
 
 Day late~ Ryan Orton
 
@@ -438,6 +457,8 @@ Mal here! Making my first edit on 8/27/2020
 
 Hello!
 
+This is Abdullahi Abdinur. To reduce the chances of a merge conflict. I am editing in the middle since majority of the people will either go for the top or bottom: First edit: 01/05/2021.
+-----------------------------------
 Aidan adding an edit on 8/30/2020.
 
 Jerico first edit.
@@ -615,9 +636,6 @@ Alicia Scott | 8/29/20 2:25pm | Commit #1 Note to self: read the entirety of the
 Vikram Mukhi:08/29/2020 3:06pm first commit
 
 
-<<<<<<< HEAD
-this is Jesse Millers first commit on 8/29/2020 15:10 PSTthis is Jesse Millers first commit %cd%
-=======
 this is Jesse Millers first commit on 8/29/2020 15:10 PST
 
 ====== Tammy Tian - 1 -  8/29/2020 ========
@@ -666,7 +684,6 @@ Alicia Scott's second commit | 8/30/20 6pm
 
 This is jagan lakshmipathy's commit for W200. - 08/31/2020.
 
->>>>>>> d5e173107f192379731278ad7709777b72d9320f
 >>>>>>> 70594a3c557199dbd8ca7029e8dfea772691999a
 
 =======
@@ -908,6 +925,10 @@ Muhammad Jawaid 1st Edit
 
 input stuff and things
 
+I don't know.
+But does that mean I have to walk on water.
+But does that mean I have to meet your father.
+
 
 ### RHS First Edit 2021-01-04 ###
 Bitcoin: A Peer-to-Peer Electronic Cash System
@@ -940,3 +961,86 @@ watches about six hours of TV a day, and mostly gets their news from mainstream 
 And that means that, if you want to influence what this person believes, you’re probably not going to get them at the door or even through a paid message.
 They’re going to form their opinions based on how the media reports on and characterizes the parties.
 ###
+
+Hi,
+This is Anand Patel
+Today is Tuesday 1/5/21 and it is my first commit.
+Today is Wednesday 1/6/21, and it is my second commit.
+
+This is Vijay. 1/5/21 and first commit.
+
+This is Trevor Johnson. Today is 1/5/2021. This is my first commit.
+
+This is Evan Chan's first commit on 1/5/21
+
+GG
+This is Charlie Boatwright's first commit to github on 1/5/21
+This is Bo He. Today is Jan. 6, 2021. This is my first commit
+
+Hello, everyone!  I'm Lea, and this is my first commit on 1/6/21.
+Anna's first commit
+
+This is Ajeya's comment on 1/6/2021. I will be back! Hasta la vista!
+Allison Rozich, first commit 06Jan2021. Second commit 09Jan2021.
+Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
+Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
+Maria time stamp 1/6/2021
+
+
+
+Evan Chan's 2nd commit on 01/07/21
+
+Sebastian Urbina first commit, fun fun fun
+
+Oswaldo's first commit on 1/6/2021.
+
+Oswaldo's second commit on 1/8/2021.
+
+Chanho Moon's first commit, 01/07/21
+
+************************************************************************************************
+Nikhil Chikmagalur PrasannaKumar was here - 01/07/2021
+**************************************************************************************************
+
+This is Vijay. 1/5/21 and first commit.
+This is Vijay. 1/7/21 and Second commit.
+=============================================================================
+Austin Jin's first commit on 01/07/2021
+=============================================================================
+My dog named Goose loves to chase Geese
+Monali's first commit
+
+Yay finishing up my homework today!  Lea's second commit on 1/7/21.Jillian is 2commit2quit
+
+-------------
+
+Max Hoff first post
+Date: 1/9/2020 10:24 PM CST
+
+-------------
+
+******
+Hey there, this is Mai. Checking in for my first commit on 01/07/2021. I hope you're doing great.
+What do you plan for this weekend? What is your recommendation for work-life-school balance?
+We need durability to last for long. Don't burn yourselve out for overworking. Have enough break & fun.
+Let's try to excercise regularly, and have good sleep too.
+Checking back in tomorrow...
+
+******
+Hey there, it's Mai again. Checking in for my second commit on 01/08/2021.
+Yay! TGIF! Here's a joke for Friday:
+"Where do cows go on Friday nights?
+They go to the moo---vies"
+******
+this is Wai Ting Chan's push on 01/09/2021. hope everyone have a nice weekend
+
+************************************************************************************************
+Nikhil Chikmagalur PrasannaKumar was here again - 01/09/2021
+**************************************************************************************************
+
+Looks like Im late to the party! - Andrew
+Sebastian day2 push
+
+My second edit - homework almost complete! Madeline
+
+Bo He's second commit on Jan 9, 2021
