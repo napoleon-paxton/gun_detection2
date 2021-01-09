@@ -909,16 +909,14 @@ Muhammad Jawaid 1st Edit
 input stuff and things
 
 
-### RHS First Edit 2021-01-04
+### RHS First Edit 2021-01-04 ###
 Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
 satoshin@gmx.com
 www.bitcoin.org
 Abstract. A purely peer-to-peer version of electronic cash would allow
-online
-payments to be sent directly from one party to another without going through a
-
-financial institution. Digital signatures provide part of the solution, but the
+online payments to be sent directly from one party to another without going through a financial institution.
+Digital signatures provide part of the solution, but the
 main benefits are lost if a trusted third party is still required to prevent
 double-spending. We propose a solution to the double-spending problem using a
 peer-to-peer network. The network timestamps transactions by hashing them
@@ -933,3 +931,12 @@ best effort basis, and nodes can leave and rejoin the network at will,
 accepting the longest proof-of-work chain as proof of what happened
 while they were gone.
 ####
+
+
+### RHS Second Edit 2021-01-09 ###
+https://nymag.com/intelligencer/2020/11/david-shor-analysis-2020-election-autopsy-democrats-polls.html
+"So the median voter in the presidential election is about 50 years old,
+watches about six hours of TV a day, and mostly gets their news from mainstream sources.
+And that means that, if you want to influence what this person believes, you’re probably not going to get them at the door or even through a paid message.
+They’re going to form their opinions based on how the media reports on and characterizes the parties.
+###
