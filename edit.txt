@@ -978,7 +978,7 @@ Hello, everyone!  I'm Lea, and this is my first commit on 1/6/21.
 Anna's first commit
 
 This is Ajeya's comment on 1/6/2021. I will be back! Hasta la vista!
-Allison Rozich, first commit 06Jan2021
+Allison Rozich, first commit 06Jan2021. Second commit 09Jan2021.
 Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
 Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
 Maria time stamp 1/6/2021
