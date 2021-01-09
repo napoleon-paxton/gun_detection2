@@ -1,4 +1,4 @@
-Den's first commit 2021/01/08 
+Den's first commit 2021/01/08
 
 <<<<<<< HEAD
 This  is the second commit - Joseph Issa
@@ -1009,7 +1009,7 @@ Yay finishing up my homework today!  Lea's second commit on 1/7/21.Jillian is 2c
 
 -------------
 
-Max Hoff first post 
+Max Hoff first post
 Date: 1/9/2020 10:24 PM CST
 
 -------------
@@ -1032,3 +1032,5 @@ this is Wai Ting Chan's push on 01/09/2021. hope everyone have a nice weekend
 ************************************************************************************************
 Nikhil Chikmagalur PrasannaKumar was here again - 01/09/2021
 **************************************************************************************************
+
+Looks like Im late to the party! - Andrew
