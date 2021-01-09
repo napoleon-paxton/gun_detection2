@@ -44,6 +44,8 @@ Added in my second commit -DP
 
 "Life's good :)))" -my cat
 
+Catherine's first commit 1/9 - Happy New Year Y'all!
+
 
 Waited long enough, so there has to be merge conflict- Ferdous
 
