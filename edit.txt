@@ -959,7 +959,7 @@ https://nymag.com/intelligencer/2020/11/david-shor-analysis-2020-election-autops
 "So the median voter in the presidential election is about 50 years old,
 watches about six hours of TV a day, and mostly gets their news from mainstream sources.
 And that means that, if you want to influence what this person believes, you’re probably not going to get them at the door or even through a paid message.
-They’re going to form their opinions based on how the media reports on and characterizes the parties.
+They’re going to form their opinions based on how the media reports on and characterizes the parties."
 ###
 
 Hi,
@@ -1043,12 +1043,12 @@ Sebastian day2 push
 
 My second edit - homework almost complete! Madeline
 
-||||||||||||||||||||||||||||||||||||||||||||||||||||					 
-|||						 |||	
-|||Frances Leung was here for commit No.1	 |||	
+||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||						 |||
+|||Frances Leung was here for commit No.1	 |||
 |||Jan 9, 2020 ~ 2pm EST			 |||
 |||Today is sunny with a clear sky in Toronto.   |||
-|||  					         ||| 				
+|||  					         |||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 Bo He's second commit on Jan 9, 2021
