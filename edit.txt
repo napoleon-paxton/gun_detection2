@@ -397,7 +397,7 @@ text
 
 2020_08_25 2:45PM Peter (Youngha) Kim was here! hahahaha
 
-2020_08_26 11:49PM Peter Kim created a merge conflict!
+2020_08_26 11:49PM Kim created a merge conflict!
 
 Frankie Pun modified this file on 8/25/2020 12:36pm PT
 
@@ -1059,3 +1059,5 @@ roger, roger - tori's first commit
 
 Parham M. was here - 1st Commit on 2021-01-09
 Hi there - this is Uzair for my 1st commit on Jan 9, 2020. Learning command line controls has been exciting
+
+commit numba 2 for superpeter55
