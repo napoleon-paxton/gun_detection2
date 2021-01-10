@@ -1096,3 +1096,9 @@ This is Kasha Muzilas commit 1 - 1/9/2021 6:56pm PST
 hey there, this is edit #1
 Maddie DiLullo trying to add my first edit
 Mili Gera's First Commit on 1/9/2021
+
+******************** Kuamr Narayanan ***********************
+My first commit into the playground. 
+Enjoying the course so far. Look forward to more involved
+Data Analysis with NUMPY, SCIPY. PANDAS etc.
+******************** Kuamr Narayanan ***********************
