@@ -1,11 +1,44 @@
+   ..------~~~--.__
+  /               c~\
+  /             \__ `\
+  |  /~~--__/  /'\ ~~' Go Bears!
+ /'/'\ |    | |`\ \_
+`-))  `-))  `-)) `-))
+
+Second commit from mkarch 1/10/21
+
+This is 2nd commit from Den Baek 1/10
+
+This is Andrew Sandico's first commit 1/8
+This is Andrew Sandico's second commit 1/10
+
+This is Ryan Knorr's first commit 1/10...
+
+| John-Michael Stilb's first commit
+"hi everybody" |
+
+This  is the second commit - Joseph Issa
+__________________________________________
+This is Joseph Issa, first commit- line 1.
+_______________________________________
+
+Elise’s first commit!
+
+Committing part of my life to this - MAP, 01062021
+
 Resolving them is not always easy. -TG
 
 Jqjq's 2nd commit, 1st commit disappeared
 
+Testing this out  - Deva
+
+Testing again - Deva
 
 Joe's Second Commit - 9.2
 
 Joe's First Commit - 8.30
+
+Sean's First Commit.
 
 Fingers crossed we got through the merge conflic - Jack
 
@@ -56,6 +89,7 @@ Nice job Chang! BOOM!
 
 testing my playground commit
 
+GG
 
 Tony Angell's first commit.  24 hr req is tricky!  (Karthik - Yes, It is! Editing your line to give you some merge conflict)  -- fixing 'unknown' showing as username on commiting into repo"
 
@@ -71,7 +105,7 @@ Shivani's first commit!!!
 Rui's third commit
 =================================================================
 
->>>>>>> b61a781b1528cc34d951d9a32c76242d1dac6113
+b61a781b1528cc34d951d9a32c76242d1dac6113
 
 Pow Chang did this First Commit Here!
 Pow Chang Second Commit..
@@ -88,6 +122,7 @@ Pc -- First Commit Here! 1st Commit
 
 KN's second commit! Fingers crossed! Did the work?
 
+Weijia's first commit
 
 Doing this again
 Asteroid 2018 VP1 will zoom past Earth on November 2, one day before Americans vote for the next president.
@@ -180,6 +215,7 @@ Ryan here, edit #1!
 
 Ryan edit #2, trying to create a merge conflict.
 
+Weijia's 2nd commit
 
 Amanda - commit #1, May 9, 2020
 Amanda - commit #2, May 10, 2020
@@ -237,8 +273,12 @@ Alex To, still committed days later!
 Taehoon Kang-1st commit
 Taehoon Kang-2nd commit
 
+ecb: I put an edit in here
+#ecb: I put another edit in here
+/* ecb I put one more edit in here */
+ecb: one more edit here
+Resolve merge conflict
 
-﻿Let's create some merge conflicts
 
 Day late~ Ryan Orton
 
@@ -429,9 +469,14 @@ Follow [46m[30m@igor_chubin[0m for wttr.in updates
 Diana Chacon adding second commit
 
 Mal here! Making my first edit on 8/27/2020
+----------------------------------
+Abdul here again - second edit on 01/08/2021.
 
+-----------------------------------
 Hello!
 
+This is Abdullahi Abdinur. To reduce the chances of a merge conflict. I am editing in the middle since majority of the people will either go for the top or bottom: First edit: 01/05/2021.
+-----------------------------------
 Aidan adding an edit on 8/30/2020.
 
 Jerico first edit.
@@ -610,56 +655,6 @@ Vikram Mukhi:08/29/2020 3:06pm first commit
 
 
 this is Jesse Millers first commit on 8/29/2020 15:10 PSTthis is Jesse Millers first commit %cd%
-=======
-this is Jesse Millers first commit on 8/29/2020 15:10 PST
-
-====== Tammy Tian - 1 -  8/29/2020 ========
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-===========================================
-
-Luis Delgado's first commit on 29 Aug at 4:16 PST
-
-Inigo. Coming late to the party! first commit 8/29 @ 6:48 PST!!
-
-Heather Reed's first commit 29 AUG 7:48pm PST.
-This is my first comment -Stephanie Laface
-This is my comment at 8/29/20 8:00PM -Stephanie Laface
-
-Vanesa Lee's first commit 8/29/2020
-Aditya Bajaj's first commit 8/29/2020
-
-Gerrit Lensink's Second commit 8/30
-
-Daniel Ryu - will commit one more time!
-Ruby Han - First Commit 8/30/20 10:46AM CDT
-
-Andrew Wong - First commit?
-
-Parker Williams first commit 8/30/20 10:05 PST
-Nathan Martinez 8/30/2020
-
-Jerico second edit :o
-
-Kevin's #2
-
-Resolving conflict by Razal
-
-Cynthia adds this line.
-
-Jared's 1st commit.
-
-
-
-Marc Semonick - first edit
-
-Alicia Scott's second commit | 8/30/20 6pm
-
-<<<<<<< HEAD
-
-This is jagan lakshmipathy's commit for W200. - 08/31/2020.
-
->>>>>>> d5e173107f192379731278ad7709777b72d9320f
 >>>>>>> 70594a3c557199dbd8ca7029e8dfea772691999a
 
 =======
@@ -727,12 +722,14 @@ Jared's 2nd commit
 
 Aditya Bajaj 2nd commit
 
+Hi, Shuhan here. This is my first commit. This is such a long file. 
+My second edit, may be I should not run git fetch so I can see some conflict here. 
 
 Hello from Somerville, MA. Today is the MA primary - hope everyone who is able to register to vote is registered!
 
 Adding some more edits here
 
-Nathan's second commit 
+Nathan's second commit
 ###################################
 
 This is Vasudev Killada. This is going to be my first commit - 09/02/2020 12.16 PM PST
@@ -740,10 +737,10 @@ This is Vasudev Killada. This is going to be my first commit - 09/02/2020 12.16 
            Weather report: berkeley
 
                 Overcast
-  [38;5;240;1m     .--.    [0m [38;5;190m68[0m °F[0m          
-  [38;5;240;1m  .-(    ).  [0m [1m↘[0m [38;5;226m9[0m mph[0m        
-  [38;5;240;1m (___.__)__) [0m 6 mi[0m           
-                0.0 in[0m         
+  [38;5;240;1m     .--.    [0m [38;5;190m68[0m °F[0m
+  [38;5;240;1m  .-(    ).  [0m [1m↘[0m [38;5;226m9[0m mph[0m
+  [38;5;240;1m (___.__)__) [0m 6 mi[0m
+                0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 14:22:54 CDT 2020.
 
@@ -766,20 +763,20 @@ This is Vasudev Killada. This is going to be my first commit - 09/02/2020 12.16 
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:01:12 CDT 2020.
  text
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:22:11 CDT 2020.
 
@@ -789,10 +786,10 @@ saying hello to the edit.txt file here
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:24:04 CDT 2020.
 hello edit.txt
@@ -807,10 +804,10 @@ Hi This is jagan's second commit.
 This is Jagan's third change to create conflict and merge.
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:28:30 CDT 2020.
 >>>>>>> 92f7185d24f5a82fdc538d591e99b59325526b07
@@ -818,10 +815,10 @@ This is Jagan's third change to create conflict and merge.
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:33:26 CDT 2020.
 >>>>>>> cf8b15853fa771cf7ffd558585456d5ad503acc5
@@ -829,30 +826,30 @@ This is Jagan's third change to create conflict and merge.
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 19:56:48 CDT 2020.
  text
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 20:04:16 CDT 2020.
  text
            Weather report: berkeley
 
   [38;5;226m    \   /    [0m Sunny
-  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m          
-  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m       
-  [38;5;226m     `-’     [0m 9 mi[0m           
-  [38;5;226m    /   \    [0m 0.0 in[0m         
+  [38;5;226m     .-.     [0m [38;5;190m69[0m °F[0m
+  [38;5;226m  ― (   ) ―  [0m [1m→[0m [38;5;208m14[0m mph[0m
+  [38;5;226m     `-’     [0m 9 mi[0m
+  [38;5;226m    /   \    [0m 0.0 in[0m
             This is loop number .
             The local system date and time is Wed Sep  2 20:09:13 CDT 2020.
 >>>>>>> f507d1ac7a4ea3d21947afec10a6617a396e24ed
@@ -869,10 +866,11 @@ One more commit from Frank Staszak - Hi All!!
 
 ---------Ruilan's 2nd----------------
 
+Week01 first commit -Viswanathan 01/07/21
 
 ------------------------------------------------------------------------------------------
 Hi,
-This is Leon Gutierrez, 
+This is Leon Gutierrez,
 Today is Tuesday 9/1/20 and it is my first commit.
 
 __________________________________________________________________________________________
@@ -899,4 +897,168 @@ Alexander Snyder - commit 1b (pushed earlier this week but currently not seeing 
 
 Muhammad Jawaid 1st Edit
 
+
 input things in stuff
+=======
+input stuff and things
+
+I don't know.
+But does that mean I have to walk on water.
+But does that mean I have to meet your father.
+
+
+### RHS First Edit 2021-01-04
+Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+satoshin@gmx.com
+www.bitcoin.org
+Abstract. A purely peer-to-peer version of electronic cash would allow
+online
+payments to be sent directly from one party to another without going through a
+
+financial institution. Digital signatures provide part of the solution, but the
+main benefits are lost if a trusted third party is still required to prevent
+double-spending. We propose a solution to the double-spending problem using a
+peer-to-peer network. The network timestamps transactions by hashing them
+into an ongoing chain of hash-based proof-of-work, forming a record that
+cannot be changed without redoing the proof-of-work. The longest chain not
+only serves as proof of the sequence of events witnessed, but proof that
+it came from the largest pool of CPU power. As long as a majority of CPU
+power is controlled by nodes that are not cooperating to attack the
+network, they'll generate the longest chain and outpace attackers. The
+network itself requires minimal structure. Messages are broadcast on a
+best effort basis, and nodes can leave and rejoin the network at will,
+accepting the longest proof-of-work chain as proof of what happened
+while they were gone.
+
+Hi,
+This is Anand Patel
+Today is Tuesday 1/5/21 and it is my first commit.
+Today is Wednesday 1/6/21, and it is my second commit.
+
+This is Vijay. 1/5/21 and first commit.
+
+This is Trevor Johnson. Today is 1/5/2021. This is my first commit.
+
+This is Evan Chan's first commit on 1/5/21
+
+GG
+This is Charlie Boatwright's first commit to github on 1/5/21
+
+This is Bo He. Today is Jan. 6, 2021. This is my first commit
+
+Hello, everyone!  I'm Lea, and this is my first commit on 1/6/21.
+
+
+
+=======
+Anna's first commit
+
+Anna's second commit, intentional merge conflict
+
+This is Ajeya's comment on 1/6/2021. I will be back! Hasta la vista!
+Allison Rozich, first commit 06Jan2021
+Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
+Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
+Maria time stamp 1/6/2021
+
+Maria time stamp 1/6/21
+Maria D's second commit on 1/8/2021
+=======
+
+
+
+Evan Chan's 2nd commit on 01/07/21
+
+Sebastian Urbina first commit, fun fun fun
+
+******
+Hey there, this is Mai. Checking in for my first commit on 01/07/2021. I hope you're doing great.
+What do you plan for this weekend? What is your recommendation for work-life-school balance?
+We need durability to last for long. Don't burn yourselve out for overworking. Have enough break & fun.
+Let's try to excercise regularly, and have good sleep too.
+Checking back in tomorrow...
+******
+
+Oswaldo's first commit on 1/6/2021.
+
+Chanho Moon's first commit, 01/07/21
+
+************************************************************************************************
+Nikhil Chikmagalur PrasannaKumar was here - 01/07/2021
+**************************************************************************************************
+
+This is Vijay. 1/5/21 and first commit.
+This is Vijay. 1/7/21 and Second commit.
+=============================================================================
+Austin Jin's first commit on 01/07/2021
+=============================================================================
+My dog named Goose loves to chase Geese
+Monali's first commit
+
+Yay finishing up my homework today!  Lea's second commit on 1/7/21.Jillian is 2commit2quit
+
+
+Ricollis Jones's First Commit 1/7/2021 4:31 P.M. Also hello !!
+
+Michael Saffell First Commit 1/7/2021 5:39 PM PST!!
+
+This is Charlie Boatwright's second commit to the this file on 1/7/2021, about 48 hours after the first commit.
+
+As I am writing this commit, I found out that Elon Musk is the world's richest person. #stonks
+Also, this is Jericho Villareal. I'm the one who wrote about Elon. Date of commit: 1/7/2021 7:49pm PST
+Testing the new line functionality. 
+This should be a new line.
+
+Trevor johnson's 2nd commit! on 1/7/2021
+
+## This is the first commit from Sitao on 1/7/2021
+
+Wai Ting Chan's first commit on 1/8/2020. Hope everyone is doing well
+
+Jacob Barkow's first commit on 1/8/2020. Greetings from Oakland!
+
+Jason Cheung's first commit on 1/9/2020 username ckjcheung.  12:12am here in HK.  
+
+Austin Jin's second commit on 01/08/2021
+Monali's second commit
+Pete Morgan's first Commit 1/08
+
+
+Stephanie He's first commit on 01/09/2021
+d851391efd56e56d435e9971aa2874b05e0b1269
+Maria D's Second commit 1/8/2021
+Jills second edit is less creative than her first
+
+
+Allison's first commit on 1/8. Happy Friday!
+Jonathan's first commit 1/8/21 sko bears
+
+
+Kevin Lu first commit 1/10/2021
+
+Denise Ferniza's first commit on 10JAN2020.  What do cows do for fun?  Go to the moooooooooooovies.  
+Michelle Shen's first commit 1/10
+Tina First Commit 1/10
+
+
+Parham M. was here - 1st Commit on 2021-01-09
+Hi there - this is Uzair for my 1st commit on Jan 9, 2020. Learning command line controls has been exciting
+Uzair's second commit on 01/10/21. First week of classes went by too fast
+=======
+Jonathans second commit on 1/10
+
+
+
+Kaidong Ying's First Commit on 1/8/2021 4PM PST
+Kaidong Ying's Second Commit on 1/10/2021 10AM PST
+
+Autumn Rains' First Commit on 1/10/21 12:30 PM MST -- fingers crossed this goes well =]
+
+And here's a second comment! Max Hoff second commit 1/10/2021 2:03pm Let's go Mets
+
+Your lucky lottery numbers are 1,5,23,4,8. Andrew 2nd commit 1/10
+this is sitao
+this is sitao's second edit
+
+Thomas attempting first commit after intentional merge conflict (1432 10.01.2021)
