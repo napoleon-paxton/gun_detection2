@@ -1,4 +1,16 @@
+   ..------~~~--.__
+  /               c~\
+  /             \__ `\
+  |  /~~--__/  /'\ ~~' Go Bears!
+ /'/'\ |    | |`\ \_
+`-))  `-))  `-)) `-))
+
+Second commit from mkarch 1/10/21
+
+This is 2nd commit from Den Baek 1/10
+
 This is Andrew Sandico's first commit 1/8
+This is Andrew Sandico's second commit 1/10
 
 
 | John-Michael Stilb's first commit
@@ -1013,5 +1025,27 @@ Stephanie He's first commit on 01/09/2021
 d851391efd56e56d435e9971aa2874b05e0b1269
 Maria D's Second commit 1/8/2021
 Jills second edit is less creative than her first
+
+
+Allison's first commit on 1/8. Happy Friday!
+Jonathan's first commit 1/8/21 sko bears
+
+
+Kevin Lu first commit 1/10/2021
+
+Denise Ferniza's first commit on 10JAN2020.  What do cows do for fun?  Go to the moooooooooooovies.  
+Michelle Shen's first commit 1/10
+Tina First Commit 1/10
+
+<<<<<<< HEAD
+Parham M. was here - 1st Commit on 2021-01-09
+Hi there - this is Uzair for my 1st commit on Jan 9, 2020. Learning command line controls has been exciting
+Uzair's second commit on 01/10/21. First week of classes went by too fast
+=======
+Jonathans second commit on 1/10
+>>>>>>> 74659273e86fb927df0ae767a91502cd0c4bac7c
+
+
 Kaidong Ying's First Commit on 1/8/2021 4PM PST
 Kaidong Ying's Second Commit on 1/10/2021 10AM PST
+
