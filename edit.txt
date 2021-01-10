@@ -1102,3 +1102,7 @@ My first commit into the playground.
 Enjoying the course so far. Look forward to more involved
 Data Analysis with NUMPY, SCIPY. PANDAS etc.
 ******************** Kuamr Narayanan ***********************
+
+#
+# Karl's commit 1 1/9/2021
+# 
