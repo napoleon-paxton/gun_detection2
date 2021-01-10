@@ -1018,7 +1018,7 @@ Jills second edit is less creative than her first
 
 Allison's first commit on 1/8. Happy Friday!
 Jonathan's first commit 1/8/21 sko bears
-This is Jonathans second commit 1/10/21
+
 
 Kevin Lu first commit 1/10/2021
 
@@ -1026,3 +1026,4 @@ Denise Ferniza's first commit on 10JAN2020.  What do cows do for fun?  Go to the
 Michelle Shen's first commit 1/10
 Tina First Commit 1/10
 
+Jonathans second commit on 1/10
