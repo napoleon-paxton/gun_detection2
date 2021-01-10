@@ -1,0 +1,6 @@
+This is the first file commit placed to test the bot
+if the bot overwrites
+then 
+we will test the conflicts
+otherwise will append from another tab(comp)
+
