@@ -1,23 +1,39 @@
+This is the 2nd commit from Mon Young - 01/10/2021
+  
+   ..------~~~--.__
+  /               c~\
+  /             \__ `\
+  |  /~~--__/  /'\ ~~' Go Bears!
+ /'/'\ |    | |`\ \_
+`-))  `-))  `-)) `-))
 
-This is my 1st commit. -AN 
+Second commit from mkarch 1/10/21
 
-Happy Saturday! ｡◕‿◕｡ JD 1.9.21
+This is Andrew Miller's first commit (hopefully!) 1/10/21
 
-Den's first commit 2021/01/08
+This is 2nd commit from Den Baek 1/10
+
+This is Andrew Sandico's first commit 1/8
+This is Andrew Sandico's second commit 1/10
+Practicing a 3rd commit for a merge error (hopefully!)
+
+This is Ryan Knorr's first commit 1/10...
+
+| John-Michael Stilb's first commit
+"hi everybody" |
 
 This  is the second commit - Joseph Issa
 __________________________________________
-﻿=======
 This is Joseph Issa, first commit- line 1.
 _______________________________________
 
-Committing part of my life to this - MAP, 01062021
+Elise’s first commit!
 
-Commiting my second part - MAP, 01082021
+Committing part of my life to this - MAP, 01062021
 
 Resolving them is not always easy. -TG
 
-John-Michael Stilb's 2nd edit.
+Matt L's First commit 1/10/21 16:16
 
 Jqjq's 2nd commit, 1st commit disappeared
 
@@ -28,6 +44,8 @@ Testing again - Deva
 Joe's Second Commit - 9.2
 
 Joe's First Commit - 8.30
+
+Sean's First Commit.
 
 Fingers crossed we got through the merge conflic - Jack
 
@@ -45,8 +63,6 @@ Added in my second commit -DP
 
 
 "Life's good :)))" -my cat
-
-Catherine's first commit 1/9 - Happy New Year Y'all!
 
 
 Waited long enough, so there has to be merge conflict- Ferdous
@@ -69,8 +85,6 @@ Pickly coconouts
 Oliver C first commit
 Rui Li second commit
 Oliver C second commit
-Sean B second commit
-Abby B first commit
 
 ========================
 Erick M 1st commit ʕ·͡ᴥ·ʔ
@@ -97,6 +111,8 @@ Erick M 2nd commit ʕ·͡ᴥ·ʔ
                                  `"~"`
 ===========================================
 
+=======
+Abby B first commit
 
 This is my third commit -KN
 No actually this is my fourth commit. I messed up! -KN
@@ -122,7 +138,7 @@ Shivani's first commit!!!
 Rui's third commit
 =================================================================
 
->>>>>>> b61a781b1528cc34d951d9a32c76242d1dac6113
+b61a781b1528cc34d951d9a32c76242d1dac6113
 
 Pow Chang did this First Commit Here!
 Pow Chang Second Commit..
@@ -232,6 +248,7 @@ Ryan here, edit #1!
 
 Ryan edit #2, trying to create a merge conflict.
 
+Weijia's 2nd commit
 
 Amanda - commit #1, May 9, 2020
 Amanda - commit #2, May 10, 2020
@@ -422,11 +439,11 @@ text
                0.0 in[0m
             This is loop number .
             The local system date and time is Tue May 12 20:13:01 CDT 2020.
-^ok this weather forecast is pretty neat :0
+
 
 2020_08_25 2:45PM Peter (Youngha) Kim was here! hahahaha
 
-2020_08_26 11:49PM Kim created a merge conflict!
+2020_08_26 11:49PM Peter Kim created a merge conflict!
 
 Frankie Pun modified this file on 8/25/2020 12:36pm PT
 
@@ -485,7 +502,10 @@ Follow [46m[30m@igor_chubin[0m for wttr.in updates
 Diana Chacon adding second commit
 
 Mal here! Making my first edit on 8/27/2020
+----------------------------------
+Abdul here again - second edit on 01/08/2021.
 
+-----------------------------------
 Hello!
 
 This is Abdullahi Abdinur. To reduce the chances of a merge conflict. I am editing in the middle since majority of the people will either go for the top or bottom: First edit: 01/05/2021.
@@ -581,20 +601,20 @@ Professor: Editing the same lines and committing will give a merge conflict:
 Me: Edits same line
 Git: CONFLICT (content): Merge conflict in edit.txt
 Me:
-⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⡏⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿
-⣿⣿⣿⣿⣿⣿⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⣿
-⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀⣸⣿
-⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢰⣹⡆⠀⠀⠀⠀⠀⠀⣭⣷⠀⠀⠀⠸⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠈⠉⠀⠀⠤⠄⠀⠀⠀⠉⠁⠀⠀⠀⠀⢿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⢾⣿⣷⠀⠀⠀⠀⡠⠤⢄⠀⠀⠀⠠⣿⣿⣷⠀⢸⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
+⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡏⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀⣸⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢰⣹⡆⠀⠀⠀⠀⠀⠀⣭⣷⠀⠀⠀⠸⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠈⠉⠀⠀⠤⠄⠀⠀⠀⠉⠁⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢾⣿⣷⠀⠀⠀⠀⡠⠤⢄⠀⠀⠀⠠⣿⣿⣷⠀⢸⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿
  text
            Weather report: berkeley
 
@@ -645,12 +665,12 @@ Brittany Dougall added a 2nd commit at 7:17 pm PST on 8/28/20.
 
 Kevin commit #1
 
-Razal needs to commit to sleep
+Thomas needs to commit to sleep
 ===================
 This should be a conflict by Razal
 =======
 
-Gerrit's first commit
+Thomas's first commit
 
 Sean Norris: First Commit 8-27-2020
 Sean Norris: First Commit Part 2 8-29-2020. This is actually my second commit
@@ -667,54 +687,7 @@ Alicia Scott | 8/29/20 2:25pm | Commit #1 Note to self: read the entirety of the
 Vikram Mukhi:08/29/2020 3:06pm first commit
 
 
-this is Jesse Millers first commit on 8/29/2020 15:10 PST
-
-====== Tammy Tian - 1 -  8/29/2020 ========
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-===========================================
-
-Luis Delgado's first commit on 29 Aug at 4:16 PST
-
-Inigo. Coming late to the party! first commit 8/29 @ 6:48 PST!!
-
-Heather Reed's first commit 29 AUG 7:48pm PST.
-This is my first comment -Stephanie Laface
-This is my comment at 8/29/20 8:00PM -Stephanie Laface
-
-Vanesa Lee's first commit 8/29/2020
-Aditya Bajaj's first commit 8/29/2020
-
-Gerrit Lensink's Second commit 8/30
-
-Daniel Ryu - will commit one more time!
-Ruby Han - First Commit 8/30/20 10:46AM CDT
-
-Andrew Wong - First commit?
-
-Parker Williams first commit 8/30/20 10:05 PST
-Nathan Martinez 8/30/2020
-
-Jerico second edit :o
-
-Kevin's #2
-
-Resolving conflict by Razal
-
-Cynthia adds this line.
-
-Jared's 1st commit.
-
-
-
-Marc Semonick - first edit
-
-Alicia Scott's second commit | 8/30/20 6pm
-
-<<<<<<< HEAD
-
-This is jagan lakshmipathy's commit for W200. - 08/31/2020.
-
+this is Jesse Millers first commit on 8/29/2020 15:10 PSTthis is Jesse Millers first commit %cd%
 >>>>>>> 70594a3c557199dbd8ca7029e8dfea772691999a
 
 =======
@@ -782,6 +755,8 @@ Jared's 2nd commit
 
 Aditya Bajaj 2nd commit
 
+Hi, Shuhan here. This is my first commit. This is such a long file. 
+My second edit, may be I should not run git fetch so I can see some conflict here. 
 
 Hello from Somerville, MA. Today is the MA primary - hope everyone who is able to register to vote is registered!
 
@@ -924,6 +899,7 @@ One more commit from Frank Staszak - Hi All!!
 
 ---------Ruilan's 2nd----------------
 
+Week01 first commit -Viswanathan 01/07/21
 
 ------------------------------------------------------------------------------------------
 Hi,
@@ -939,10 +915,10 @@ Today is Thursday 9/3/20, and it is my second commit. I'm done!
 ⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀⣸⣿
 ⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀     ⠀⠀⠀⠸⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀  ⠀⠀  ⠀⠀⠀   ⠀⠀⠀⠀⢿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿   ⠀⠀⠀⠀   ⠀⠀⠀     ⠀⢸⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀    ⠀⠀⠀⠀   ⠀⠀⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢰⣹⡆⠀⠀⠀⠀⠀⠀⣭⣷⠀⠀⠀⠸⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠈⠉⠀⠀⠤⠄⠀⠀⠀⠉⠁⠀⠀⠀⠀⢿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⢾⣿⣷⠀⠀⠀⠀⡠⠤⢄⠀⠀⠀⠠⣿⣿⣷⠀⢸⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
 
@@ -954,6 +930,9 @@ Alexander Snyder - commit 1b (pushed earlier this week but currently not seeing 
 
 Muhammad Jawaid 1st Edit
 
+
+input things in stuff
+=======
 input stuff and things
 
 I don't know.
@@ -961,14 +940,16 @@ But does that mean I have to walk on water.
 But does that mean I have to meet your father.
 
 
-### RHS First Edit 2021-01-04 ###
+### RHS First Edit 2021-01-04
 Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
 satoshin@gmx.com
 www.bitcoin.org
 Abstract. A purely peer-to-peer version of electronic cash would allow
-online payments to be sent directly from one party to another without going through a financial institution.
-Digital signatures provide part of the solution, but the
+online
+payments to be sent directly from one party to another without going through a
+
+financial institution. Digital signatures provide part of the solution, but the
 main benefits are lost if a trusted third party is still required to prevent
 double-spending. We propose a solution to the double-spending problem using a
 peer-to-peer network. The network timestamps transactions by hashing them
@@ -982,16 +963,6 @@ network itself requires minimal structure. Messages are broadcast on a
 best effort basis, and nodes can leave and rejoin the network at will,
 accepting the longest proof-of-work chain as proof of what happened
 while they were gone.
-####
-
-
-### RHS Second Edit 2021-01-09 ###
-https://nymag.com/intelligencer/2020/11/david-shor-analysis-2020-election-autopsy-democrats-polls.html
-"So the median voter in the presidential election is about 50 years old,
-watches about six hours of TV a day, and mostly gets their news from mainstream sources.
-And that means that, if you want to influence what this person believes, you’re probably not going to get them at the door or even through a paid message.
-They’re going to form their opinions based on how the media reports on and characterizes the parties."
-###
 
 Hi,
 This is Anand Patel
@@ -1006,16 +977,27 @@ This is Evan Chan's first commit on 1/5/21
 
 GG
 This is Charlie Boatwright's first commit to github on 1/5/21
+
 This is Bo He. Today is Jan. 6, 2021. This is my first commit
 
 Hello, everyone!  I'm Lea, and this is my first commit on 1/6/21.
+
+
+
+=======
 Anna's first commit
 
+Anna's second commit, intentional merge conflict
+
 This is Ajeya's comment on 1/6/2021. I will be back! Hasta la vista!
-Allison Rozich, first commit 06Jan2021. Second commit 09Jan2021.
+Allison Rozich, first commit 06Jan2021
 Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
 Maria's first commit attempt, amidst a global pandemic and government coup. Whod'a thunk it.
 Maria time stamp 1/6/2021
+
+Maria time stamp 1/6/21
+Maria D's second commit on 1/8/2021
+=======
 
 
 
@@ -1023,9 +1005,15 @@ Evan Chan's 2nd commit on 01/07/21
 
 Sebastian Urbina first commit, fun fun fun
 
-Oswaldo's first commit on 1/6/2021.
+******
+Hey there, this is Mai. Checking in for my first commit on 01/07/2021. I hope you're doing great.
+What do you plan for this weekend? What is your recommendation for work-life-school balance?
+We need durability to last for long. Don't burn yourselve out for overworking. Have enough break & fun.
+Let's try to excercise regularly, and have good sleep too.
+Checking back in tomorrow...
+******
 
-Oswaldo's second commit on 1/8/2021.
+Oswaldo's first commit on 1/6/2021.
 
 Chanho Moon's first commit, 01/07/21
 
@@ -1043,52 +1031,78 @@ Monali's first commit
 
 Yay finishing up my homework today!  Lea's second commit on 1/7/21.Jillian is 2commit2quit
 
--------------
 
-Max Hoff first post
-Date: 1/9/2020 10:24 PM CST
+Ricollis Jones's First Commit 1/7/2021 4:31 P.M. Also hello !!
 
--------------
+Michael Saffell First Commit 1/7/2021 5:39 PM PST!!
 
-******
-Hey there, this is Mai. Checking in for my first commit on 01/07/2021. I hope you're doing great.
-What do you plan for this weekend? What is your recommendation for work-life-school balance?
-We need durability to last for long. Don't burn yourselve out for overworking. Have enough break & fun.
-Let's try to excercise regularly, and have good sleep too.
-Checking back in tomorrow...
+This is Charlie Boatwright's second commit to the this file on 1/7/2021, about 48 hours after the first commit.
 
-******
-Hey there, it's Mai again. Checking in for my second commit on 01/08/2021.
-Yay! TGIF! Here's a joke for Friday:
-"Where do cows go on Friday nights?
-They go to the moo---vies"
-******
-this is Wai Ting Chan's push on 01/09/2021. hope everyone have a nice weekend
+As I am writing this commit, I found out that Elon Musk is the world's richest person. #stonks
+Also, this is Jericho Villareal. I'm the one who wrote about Elon. Date of commit: 1/7/2021 7:49pm PST
+Testing the new line functionality. 
+This should be a new line.
 
-************************************************************************************************
-Nikhil Chikmagalur PrasannaKumar was here again - 01/09/2021
-**************************************************************************************************
+Trevor johnson's 2nd commit! on 1/7/2021
 
-Looks like Im late to the party! - Andrew
-Sebastian day2 push
+## This is the first commit from Sitao on 1/7/2021
 
-My second edit - homework almost complete! Madeline
+Wai Ting Chan's first commit on 1/8/2020. Hope everyone is doing well
 
-||||||||||||||||||||||||||||||||||||||||||||||||||||
-|||						 |||
-|||Frances Leung was here for commit No.1	 |||
-|||Jan 9, 2020 ~ 2pm EST			 |||
-|||Today is sunny with a clear sky in Toronto.   |||
-|||  					         |||
-||||||||||||||||||||||||||||||||||||||||||||||||||||
+Jacob Barkow's first commit on 1/8/2020. Greetings from Oakland!
 
-Bo He's second commit on Jan 9, 2021
+Jason Cheung's first commit on 1/9/2020 username ckjcheung.  12:12am here in HK.  
 
-roger, roger - tori's first commit
+Austin Jin's second commit on 01/08/2021
+Monali's second commit
+Pete Morgan's first Commit 1/08
+
+
+Stephanie He's first commit on 01/09/2021
+d851391efd56e56d435e9971aa2874b05e0b1269
+Maria D's Second commit 1/8/2021
+Jills second edit is less creative than her first
+
+
+Allison's first commit on 1/8. Happy Friday!
+Jonathan's first commit 1/8/21 sko bears
+
+
+Kevin Lu first commit 1/10/2021
+
+Denise Ferniza's first commit on 10JAN2020.  What do cows do for fun?  Go to the moooooooooooovies.  
+Michelle Shen's first commit 1/10
+Tina First Commit 1/10
+
 
 Parham M. was here - 1st Commit on 2021-01-09
 Hi there - this is Uzair for my 1st commit on Jan 9, 2020. Learning command line controls has been exciting
+Uzair's second commit on 01/10/21. First week of classes went by too fast
+=======
+Jonathans second commit on 1/10
 
-commit numba 2 for superpeter55
 
-This is Ajeya's second comment on 1/9/2021. I am back! Aloha!
+
+Kaidong Ying's First Commit on 1/8/2021 4PM PST
+Kaidong Ying's Second Commit on 1/10/2021 10AM PST
+
+Autumn Rains' First Commit on 1/10/21 12:30 PM MST -- fingers crossed this goes well =]
+
+And here's a second comment! Max Hoff second commit 1/10/2021 2:03pm Let's go Mets
+
+Your lucky lottery numbers are 1,5,23,4,8. Andrew 2nd commit 1/10
+this is sitao
+this is sitao's second edit
+This is my test of merge conflict
+
+Thomas attempting first commit after intentional merge conflict (1432 10.01.2021)
+
+=============================================================================
+Michael Townsend's second commit on 01/10/2021
+=============================================================================
+
+Jacob Barkow's second commit on 1/10/2021 ヽ༼ຈل͜ຈ༽ﾉ
+
+Tori's second commit 1/10/2021
+
+Ricollis's second commit 1/10/2021
