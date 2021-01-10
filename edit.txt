@@ -1,3 +1,6 @@
+
+This is 2nd commit from Den Baek 1/10
+
 This is Andrew Sandico's first commit 1/8
 This is Andrew Sandico's second commit 1/10
 
